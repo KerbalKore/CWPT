@@ -1,0 +1,5 @@
+// Vanguard SRM
+@PART[bluedog_UpperSolids_BE3|bluedog_UpperSolids_Altair|bluedog_Sargent_3x|bluedog_Sargent_11x|bluedog_mercury_posigradeMotor|bluedog_Sargent_1x|bluedog_Sargent_1xDecoupler|bluedog_Sargent_3xDecoupler|bluedog_Sargent_3xDecoupler|bluedog_Sargent_11xDecoupler]:FIRST:NEEDS[Bluedog_DB]
+{
+%techtag = vacsolids1
+}
