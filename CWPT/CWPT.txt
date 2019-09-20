@@ -21,7 +21,47 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = Bumper_Control
+			part = BDB_FASAlaunchClamp125
+			part = Bumper_Engine_Unclad
+			part = Bumper_Engine
+			part = Bumper_Nose
+			part = Bumper_Body
+			part = basicFin
+			part = Bumper_Fin
+			part = SR_Wing_01
+			part = SR_Wing_02
+			part = SR_Gridfin_02
+			part = SR_Gridfin_03
+			part = SR_Decoupler
+			part = SR_PayloadFairing_625
+			part = SR_PayloadTruss_625
+			part = SR_Adapter
+			part = SR_Stack_Battery
+			part = SR_Nosecone_625
+			part = SR_PackChute_35
+			part = SR_Gyroscope
+			part = SR_InlineProbe
+			part = SR_Tank_35_01
+			part = SR_Aerospike
+			part = SR_Rocket_625_01
+			part = SR_Tank_625_01
+			part = SR_Payload_01
+			part = SR_Payload_02
+			part = SSTU-SC-TANK-MFT-A
+			part = SXTlaunchclamp1
+			part = EjectionModule
+			part = EjectionModule
+			part = HexCanOxygenSmall
+			part = HexCanDrinkingWaterSmall
+			part = HexCanLifeSupportWasteSmall
+			part = HexCanLifeSupportSmall
+			part = HexCanFoodSmall
+			part = TacAirFilter
+		}
+	}
 	RDNode
 	{
 		id = USstart
@@ -41,7 +81,23 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = taerobee_control
+			part = taerobee_parachute
+			part = bluedog_vanguardEngine
+			part = bluedog_vanguardTank
+			part = bluedog_navahoEngine
+			part = bluedog_ablestarFairing
+			part = bluedog_trapezoidFin
+			part = bluedog_thorFin
+			part = bluedog_Juno_StageRCS
+			part = bluedog_9375mDecoupler
+			part = bluedog_625mDecoupler
+			part = bluedog_625mFairing
+			part = SXTX405
+		}
+	}
 	RDNode
 	{
 		id = USSRstart
@@ -61,7 +117,18 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = R6_Core_LFO
+			part = R6_Booster_LFO
+			part = RK-Z-106
+			part = RK-Z-105
+			part = RD_RK-3
+			part = RK-Z-105a
+			part = RK-Z-011
+			part = TLV_2_Fairing_1
+		}
+	}
 	RDNode
 	{
 		id = construction1
@@ -81,7 +148,51 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = structuralIBeam3
+			part = strutCube
+			part = strutOcto
+			part = structuralIBeam2
+			part = structuralMiniNode
+			part = trussPiece1x
+			part = structuralPanel1
+			part = trussAdapter
+			part = stackDecouplerMini
+			part = KzInterstageAdapter2
+			part = KzResizableFairingBase
+			part = KzResizableFairingBaseRing
+			part = KzProcFairingFuselage1
+			part = KzProcFairingFuselage2
+			part = KzProcFairingSide1
+			part = KzProcFairingSide2
+			part = SSTU-SC-GEN-FR-N
+			part = SSTU-SC-GEN-FR-W
+			part = SSTU-SC-GEN-IPA-W
+			part = SSTU-SC-GEN-IPA-N
+			part = fairingSize1
+			part = KzThrustPlate
+			part = KIS_beer
+			part = KIS_taco
+			part = KIS_basketball
+			part = KIS_ghettoblaster
+			part = KIS_guide
+			part = KIS_wrench
+			part = KIS_golfclub
+			part = KIS_guitar
+			part = SEP_Screwdriver
+			part = SSTU-SC-TANK-MUS-CB
+			part = miniFuelTank
+			part = microEngine
+			part = radialDecoupler
+			part = HeatShield0
+			part = TacOxygenContainerSmall
+			part = TacWasteContainerSmall
+			part = TacWaterContainerSmall
+			part = TacLifeSupportContainerSmall
+			part = TacFoodContainerSmall
+		}
+	}
 	RDNode
 	{
 		id = aerospace1
@@ -107,7 +218,23 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = Mark1Cockpit
+			part = MK1CrewCabin
+			part = SXTClyde
+			part = SXTsmallbicoupleradaptor
+			part = mk1cargodoor
+			part = mk1cargodoorjr
+			part = passengeroor
+			part = mk1dronedoor
+			part = fighterinlinecockpit
+			part = navlight
+			part = landingskid
+			part = bellcockpit
+			part = JuniorFuselage
+		}
+	}
 	RDNode
 	{
 		id = construction2
@@ -127,7 +254,35 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = BDB_FASAlaunchClamp25
+			part = BDB_FASAlaunchClampAtlas
+			part = launchClamp1
+			part = BDB_FASAUmbilicalTower
+			part = BDB_FASAlaunchClampApollo
+			part = BDB_FASAlaunchTower
+			part = pf_tech_fairing4m
+			part = fairingSize3
+			part = ServiceBay_125
+			part = Kosmos_Common_LED_Flood_Light
+			part = KIS_Container1
+			part = KIS_ContainerMount1
+			part = KIS_evapropellant
+			part = toroidalFuelTank
+			part = sepMotor1
+			part = radialEngineMini
+			part = parachuteSingle
+			part = linearRcs
+			part = miniLandingLeg
+			part = HeatShield1
+			part = HexCanDrinkingWater
+			part = HexCanLifeSupportWaste
+			part = HexCanOxygen
+			part = HexCanLifeSupport
+			part = HexCanFood
+		}
+	}
 	RDNode
 	{
 		id = construction4
@@ -147,7 +302,36 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = pf_tech_rocket30m
+			part = pf_tech_fairing30m
+			part = Kosmos_Strut_Connector
+			part = KIS_Container2
+			part = KAS_Hook_Magnet
+			part = KAS_Hook_GrapplingHook
+			part = KAS_Hook_Harpoon
+			part = KAS_Strut1
+			part = KAS_Hook_Anchor
+			part = KIS_bomb1
+			part = KAS_Pylon1
+			part = KIS_electricScrewdriver
+			part = SSTU-SC-TANK-MFT-S
+			part = SSTU-SC-BAY-MCB-A
+			part = SSTU-SC-TANK-MFT-L
+			part = SSTU-SC-TANK-MFT-R
+			part = vernierEngine
+			part = landingLeg1-2
+			part = GrapplingDevice
+			part = InflatableHeatShield
+			part = HexCanDrinkingWaterLarge
+			part = HexCanLifeSupportWasteLarge
+			part = HexCanOxygenLarge
+			part = HexCanLifeSupportLarge
+			part = HexCanFoodLarge
+			part = SXTAirbag
+		}
+	}
 	RDNode
 	{
 		id = aerospace2
@@ -167,7 +351,15 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = fightercockpit
+			part = citationcockpit
+			part = oh6cockpit
+			part = mk1DroneCore
+			part = GearSmall
+		}
+	}
 	RDNode
 	{
 		id = aerospace3
@@ -187,7 +379,27 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = SXTGoose
+			part = 25mKossak
+			part = LMkIIIAircaftFus
+			part = LMkIIIAircaftFusLong
+			part = SXTradialWindow
+			part = LMkIIAircaftTail
+			part = SXTmeadowlark
+			part = hipcockpit
+			part = airbuscockpit
+			part = falconcockpit
+			part = SXTCargoBay1
+			part = airramp
+			part = size2CrewCabin
+			part = adapterSize2-Size1
+			part = adapterSize2-Size1Slant
+			part = size2Fuselage
+			part = size2under
+		}
+	}
 	RDNode
 	{
 		id = aerospace4
@@ -207,7 +419,27 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = radialLiquidEngine1-2
+			part = SXTmk3Cockpit52
+			part = SXTEntenteCordiale
+			part = SXTsize2LFtank
+			part = SXTsize2LFtankShort
+			part = SXT25mMk2Adap
+			part = SXT25mMk2AdapSlant
+			part = concordecockpit
+			part = mk3CrewCabin
+			part = adapterMk3-Size2
+			part = adapterMk3-Size2Slant
+			part = mk3FuselageLF_25
+			part = mk3FuselageLF_50
+			part = mk3FuselageLF_100
+			part = mk3CargoBayS
+			part = mk3CargoRamp
+			part = GearMedium
+		}
+	}
 	RDNode
 	{
 		id = lifting3
@@ -233,7 +465,64 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = mk3CargoBayL
+			part = mk3CargoBayM
+			part = mk3FuselageMONO
+			part = mk3FuselageLFO_50
+			part = mk3FuselageLFO_100
+			part = adapterSize3-Mk3
+			part = wingShuttleStrake
+			part = wingShuttleElevon2
+			part = toroidalAerospike
+			part = wingShuttleElevon1
+			part = wingShuttleRudder
+			part = wingShuttleDelta
+			part = shuttle_cockpit
+			part = ETdecoupler
+			part = ETdecoupler5m
+			part = adapterEngines
+			part = Bottom25
+			part = Bottom50
+			part = Bottom100
+			part = BodyFlap
+			part = CA_Elevon1
+			part = CAStrake
+			part = CA_Elevon2
+			part = CArudder
+			part = CADelta
+			part = ShuttleB
+			part = ShuttleBottomLong
+			part = NoseCone
+			part = CRG_100R
+			part = CRG_150
+			part = STSDelta
+			part = STSInnerElevon
+			part = STSStrake
+			part = STSOuterElevon
+			part = SXTWingSmallFolding
+			part = CA_drogue
+			part = CAFuelCell
+			part = ShuttleTruss
+			part = SSTU-SC-E-FSX
+			part = SSTU-SC-E-EL
+			part = SSTU-SC-E-ER
+			part = SSTU-SC-E-WT
+			part = SSTU-SC-E-WL
+			part = SSTU-SC-E-WR
+			part = ShuttleOMSDUO
+			part = RCSB
+			part = CAICC
+			part = CAsunshade
+			part = ELCPallet
+			part = SLpallet
+			part = mk4intake-radial-2
+			part = mk4intake-radial-1
+			part = mk4enginenacelle-25-1
+			part = mk3Cockpit_Shuttle
+		}
+	}
 	RDNode
 	{
 		id = construction3
@@ -253,7 +542,40 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = structuralIBeam1
+			part = structuralPanel2
+			part = stackPoint1
+			part = trussPiece3x
+			part = pf_tech_rocket12m
+			part = pf_tech_fairing12m
+			part = ServiceBay_250
+			part = KIS_Container3
+			part = KAS_Winch1
+			part = KAS_Winch2
+			part = KAS_CPort1
+			part = kis_concreteBase1
+			part = SSTU-SC-TANK-MUS-ST
+			part = omsEngine
+			part = liquidEngineMini
+			part = smallRadialEngine
+			part = RCSBlock
+			part = landingLeg1
+			part = strutConnector
+			part = radialDecoupler2
+			part = radialDecoupler1-2
+			part = HeatShield2
+			part = HeatShield3
+			part = TacWasteContainer
+			part = TacWaterContainer
+			part = TacOxygenContainer
+			part = TacLifeSupportContainer
+			part = TacFoodContainer
+			part = SXTAirbagSmall
+			part = seatExternalCmd
+		}
+	}
 	RDNode
 	{
 		id = international1
@@ -267,7 +589,45 @@ TechTree
 		hideEmpty = False
 		hideIfNoBranchParts = False
 		scale = 0.6
-			}
+		Unlocks
+		{
+			part = Wax_SRB_A
+			part = Knight_LFO_A
+			part = Knight_LFO_B
+			part = Knight_LFO_C
+			part = Knight_Engine_A
+			part = Knight_Motor_A
+			part = Knight_Motor_B
+			part = Knight_Motor_C
+			part = Arrow_Engine_A
+			part = Arrow_LFO_A
+			part = Knight_Decoupler_A
+			part = Arrow_Decoupler_A
+			part = Knight_Fairing_A
+			part = bluedog_Diamant_Topaze
+			part = bluedog_Diamant_Rubis
+			part = bluedog_Diamant_TankB
+			part = bluedog_Diamant_TankA
+			part = bluedog_Diamant_Fin
+			part = bluedog_Diamant_Vexin
+			part = bluedog_Diamant_Adapter
+			part = bluedog_Diamant_Asterix
+			part = bluedog_Diamant_Diapason
+			part = bluedog_Diamant_DiapasonSolar
+			part = Arrow_Control_A
+			part = Knight_Control_A
+			part = Knight_ReactionWheel_A
+			part = TacWasteContainerLarge
+			part = TacWaterContainerLarge
+			part = TacOxygenContainerLarge
+			part = TacLifeSupportContainerLarge
+			part = TacFoodContainerLarge
+			part = SXTAlouetteI
+			part = SXTWaxWing
+			part = SXTBlackAdder2
+			part = SXTBlackAdder
+		}
+	}
 	RDNode
 	{
 		id = international2
@@ -287,7 +647,20 @@ TechTree
 			lineFrom = TOP
 			lineTo = BOTTOM
 		}
-			}
+		Unlocks
+		{
+			part = probeStackLarge
+			part = Prince_Engine_A
+			part = Centaur_Nose_A
+			part = Prince_Adapter_A
+			part = Prince_LFO_A
+			part = LLV_G_Fairing_1
+			part = TLV_Fairing_B
+			part = bluedog_Diamant_Rita
+			part = cryoengine-125-1
+			part = engineLargeSkipper
+		}
+	}
 	RDNode
 	{
 		id = internationalcraft1
@@ -307,7 +680,19 @@ TechTree
 			lineFrom = LEFT
 			lineTo = RIGHT
 		}
-			}
+		Unlocks
+		{
+			part = Capella_Engine_A
+			part = Capella_Mono_A
+			part = Capella_Control_A
+			part = Capella_Solar_A
+			part = HDECU2500
+			part = Capella_Structure_A
+			part = Capella_Structure_B
+			part = C_ATV_Storage
+			part = ATV_SP
+		}
+	}
 	RDNode
 	{
 		id = spaceplanedocking
@@ -327,7 +712,31 @@ TechTree
 			lineFrom = TOP
 			lineTo = BOTTOM
 		}
-			}
+		Unlocks
+		{
+			part = dockingPortLateral
+			part = mk2DockingPort
+			part = dockingPort1
+			part = inlineairlock
+			part = Airlock
+			part = CXA_APAS_P_WB
+			part = zjoint
+			part = adapter
+			part = crawltube
+			part = CXA_APAS_A
+			part = SSTU-SC-E-DA
+			part = SSTU-SC-E-DAX
+			part = MMUrack
+			part = MMUrackE
+			part = CAMMU
+			part = sxtairlockAnimated
+			part = CAfoodS
+			part = CAstorage1
+			part = mk4cockpit-shoulder-2
+			part = mk4rcsblister-1
+			part = mk4rcsblister-2
+		}
+	}
 	RDNode
 	{
 		id = international2.5
@@ -347,7 +756,18 @@ TechTree
 			lineFrom = TOP
 			lineTo = BOTTOM
 		}
-			}
+		Unlocks
+		{
+			part = E_1875_ALIYANA
+			part = E_HM-7
+			part = E_viking4_2
+			part = A1-44_FIN
+			part = CST-87-7p5
+			part = CST-25-2
+			part = HDECU1250
+			part = HDECU1875
+		}
+	}
 	RDNode
 	{
 		id = international3
@@ -367,7 +787,16 @@ TechTree
 			lineFrom = TOP
 			lineTo = BOTTOM
 		}
-			}
+		Unlocks
+		{
+			part = CLV_SRB_A
+			part = CLV_Engine_A
+			part = CLV_LFO_A
+			part = CLV_Nose_A
+			part = LLV_B_Fairing_1
+			part = cryoengine-25-1
+		}
+	}
 	RDNode
 	{
 		id = international3a
@@ -387,7 +816,16 @@ TechTree
 			lineFrom = TOP
 			lineTo = BOTTOM
 		}
-			}
+		Unlocks
+		{
+			part = E_ALIYANA_PAL
+			part = E_ALIYANA_PAP
+			part = 
+			part = 
+			part = 
+			part = 
+		}
+	}
 	RDNode
 	{
 		id = internationalplanes
@@ -413,7 +851,15 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = BOTTOM
 		}
-			}
+		Unlocks
+		{
+			part = CD_DOCSTO
+			part = CD-Hermes
+			part = DH_decoupler
+			part = Size3to2Adapter
+			part = HOPE_XL
+		}
+	}
 	RDNode
 	{
 		id = skylon
@@ -433,7 +879,24 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = RAPIER
+			part = Mk3RadialRAMIntake
+			part = mk3HypersonicCockpit
+			part = mk3HypersonicDroneCore
+			part = fuelTankN5
+			part = mk4cockpit-2
+			part = mk4enginecooler-25-1
+			part = SXTshockConeIntakeSize2
+			part = SXTnuclearramjet
+			part = SXTLANCER
+			part = mk4multimodal-25-2
+			part = Mk3LiftingBodyEdge
+			part = Mk3EdgeRootExtension
+			part = mk4intake-largeshock
+		}
+	}
 	RDNode
 	{
 		id = internationalcraft2
@@ -453,7 +916,34 @@ TechTree
 			lineFrom = TOP
 			lineTo = BOTTOM
 		}
-			}
+		Unlocks
+		{
+			part = C_CTV_Capsule
+			part = C_CTV_HeatShield
+			part = C_ATV_09375to1250
+			part = C_ATV_1250to2200
+			part = C_CTV_AirLock
+			part = U_CTV_Adapter
+			part = C_CTV_Decoupler
+			part = C_CTV_Decoupler_2
+			part = Polaris_Crew_A
+			part = Polaris_Engine_A
+			part = Polaris_Heatshield_A
+			part = Polaris_LFO_A
+			part = Polaris_Orbital_A
+			part = Polaris_Port_A
+			part = Polaris_Solar_A
+			part = Polaris_Structure_A
+			part = IXV_Contares
+			part = COLOMBO
+			part = COLOMBO_oP
+			part = TacWasteContainerLarge375
+			part = TacWaterContainerLarge375
+			part = TacOxygenContainerLarge375
+			part = TacLifeSupportContainerLarge375
+			part = TacFoodContainerLarge375
+		}
+	}
 	RDNode
 	{
 		id = international4
@@ -473,7 +963,10 @@ TechTree
 			lineFrom = TOP
 			lineTo = BOTTOM
 		}
-			}
+		Unlocks
+		{
+		}
+	}
 	RDNode
 	{
 		id = USSRprobes1
@@ -493,7 +986,22 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = probeCoreSphere
+			part = sputnik3
+			part = sputnik1
+			part = sputnik2
+			part = rn_sputnik1_base
+			part = rn_sputnik3_base
+			part = rn_sputnik1_nosecone
+			part = rn_sputnik2_nosecone
+			part = rn_sputnik3_nosecone
+			part = SXTSputnik
+			part = SXTAntenna
+			part = bluedog_Sputnik3_Core
+		}
+	}
 	RDNode
 	{
 		id = r71
@@ -513,7 +1021,42 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = RD-RK-3B
+			part = TLV_LFO_C
+			part = TLV_Fin
+			part = TLV_LFO_B
+			part = SSTU-SC-ENG-RD-108A
+			part = SSTU-SC-ENG-RD-107X
+			part = SSTU-SC-ENG-RD-107A
+			part = SSTU-SC-TANK-MFT-D
+			part = rn_r7_blok_a
+			part = rn_r7_blok_bvgd
+			part = rn_r7_blok_a_engine
+			part = rn_r7_bvgd_engine
+			part = rn_r7_vernier_engine_v_fg
+			part = R7_FS_TOP
+			part = R7_FIRST_STAGE
+			part = R7_SECOND_STAGE
+			part = R7_RETRO_MOTOR
+			part = R7_FIRST_STAGE_DECOUPLER
+			part = rn_r7_adapter_blok_e
+			part = rn_WING_R7
+			part = TLV_Vernier
+			part = TLV_Engine_A
+			part = TLV_LFO_A
+			part = LLV_E_Fairing_1
+			part = TLV_0_Engine_1
+			part = TLV_0_LFO_1
+			part = TLV_1_Engine_1
+			part = TLV_1_LFO_1
+			part = TLV_1_LFO_2
+			part = LLV_E_Decoupler_1
+			part = restock-engine-ursa-1
+			part = LiquidEngineRK-7
+		}
+	}
 	RDNode
 	{
 		id = USSRprobes2
@@ -533,7 +1076,19 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = luna2
+			part = luna3
+			part = molniya1
+			part = polyot
+			part = luna_vernier
+			part = polyot_side_engine
+			part = molniya_asas
+			part = rn_luna_base
+			part = rn_luna_fairing
+		}
+	}
 	RDNode
 	{
 		id = vostok
@@ -553,7 +1108,34 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = Vostok_Crew_A
+			part = Vostok_Mono_A
+			part = Vostok_Engine_A
+			part = Vostok_Decoupler_A
+			part = Almach_RCS_A
+			part = Almach_Parachute_A
+			part = Vostok_Service_A
+			part = rn_vostok_tdu
+			part = rn_vostok_sc
+			part = rn_vostok_para
+			part = rn_vostok_dec
+			part = rn_r7_voskhod_fairing_l
+			part = rn_r7_vostok_fairing_r
+			part = Vega_Antenna_A
+			part = Vostok_Antenna_A
+			part = Libra_Antenna_1
+			part = IronVostok_Antenna_A
+			part = IronVostok_Control_A
+			part = IronVostok_Crew_A
+			part = IronVostok_Decoupler_A
+			part = IronVostok_Engine_A
+			part = IronVostok_Mono_A
+			part = IronVostok_Parachute_A
+			part = IronVostok_Service_A
+		}
+	}
 	RDNode
 	{
 		id = USSRstage1
@@ -573,7 +1155,21 @@ TechTree
 			lineFrom = TOP
 			lineTo = BOTTOM
 		}
-			}
+		Unlocks
+		{
+			part = Alto_Engine_B
+			part = Alto_Engine_A
+			part = Alto_LFO_A
+			part = Alto_Decoupler_A
+			part = rn_r7_vostok_blok_e_vernier
+			part = rn_r7_vostok_blok_e
+			part = rn_r7_vostok_blok_e_lunar
+			part = IronVostok_BlokE_Decoupler_A
+			part = IronVostok_BlokE_Engine_A
+			part = IronVostok_BlokE_Engine_B
+			part = IronVostok_BlokE_LFO_A
+		}
+	}
 	RDNode
 	{
 		id = voskhod
@@ -593,7 +1189,18 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = Vega_Mono_A
+			part = rn_voskhod_retro
+			part = rn_voskhod_sc
+			part = rn_voskhod_airlock
+			part = rn_voskhod_retro_dec
+			part = rn_r7_voskhod_fairing_r
+			part = rn_r7_adapter_blok_i_v
+			part = CWPT_Voshkod
+		}
+	}
 	RDNode
 	{
 		id = soyuz1
@@ -613,7 +1220,49 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = Tantares_Decoupler_A
+			part = TLV_LES
+			part = ok_tft
+			part = rn_r7_les_okt
+			part = ok_pao
+			part = ok_sa
+			part = ok_bo_fem
+			part = ok_bo_male
+			part = 7k_ok_lsolar
+			part = 7k_ok_rsolar
+			part = ok_para
+			part = ok_dec
+			part = ok_hs
+			part = ADAPTER_BLOCK_I
+			part = rn_r7_adapter_blok_iv2
+			part = rn_r7_soyuz_fairing2
+			part = Tantares_Habitation_1
+			part = Tantares_Parachute_1
+			part = Tantares_Engine_1
+			part = Tantares_Crew_1
+			part = Tantares_RCS_1
+			part = Tantares_RCS_2
+			part = Tantares_RCS_3
+			part = Tantares_RCS_4
+			part = Tantares_DockingMechanism_1
+			part = Tantares_DockingMechanism_2
+			part = Tantares_SolarBasic_1_L
+			part = Tantares_SolarBasic_1_R
+			part = Tantares_SolarBasic_2_L
+			part = Tantares_SolarBasic_2_R
+			part = Tantares_Light_1
+			part = Tantares_MOE_1
+			part = Tantares_MOE_1_E
+			part = Tantares_MOE_2
+			part = Tantares_MOE_2_E
+			part = Tantares_MOE_3
+			part = Tantares_MOE_3_E
+			part = Tantares_MOE_4
+			part = Tantares_MOE_4_E
+		}
+	}
 	RDNode
 	{
 		id = soyuz2
@@ -633,7 +1282,24 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = rn_zond_les
+			part = rn_lok_tdu
+			part = rn_lok_sa
+			part = rn_zond_sa
+			part = rn_zond_asas
+			part = rn_lok_bo
+			part = rn_7k_zond_lsolar
+			part = rn_7k_zond_rsolar
+			part = rn_zond_top
+			part = rn_lok_para
+			part = rn_lok_dec
+			part = rn_zond_dec
+			part = rn_zond_fairing
+			part = Tantares_Engine_2
+		}
+	}
 	RDNode
 	{
 		id = r72
@@ -653,7 +1319,18 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = RD_RK-4
+			part = rn_blockl_ullage
+			part = rn_blockl_vernier
+			part = rn_molniya_blockl
+			part = rn_ullage_decoupler
+			part = DECOUPLER
+			part = rn_r7_blok_i_fairing_m
+			part = rn_r7_adapter_blok_i_m
+		}
+	}
 	RDNode
 	{
 		id = proton1
@@ -673,7 +1350,19 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = ALV_Motor_A
+			part = ALV_Decoupler_A
+			part = LLV_V_Fairing_1
+			part = HGAProtonLightS2
+			part = HGAProtonLightS1
+			part = HGAProtonMediumS1
+			part = LLV_V_Decoupler_1
+			part = ALV_3_Engine_1
+			part = ALV_3_LFO_1
+		}
+	}
 	RDNode
 	{
 		id = proton2
@@ -693,7 +1382,26 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = ALV_Engine_A
+			part = rn_protonk_stg1
+			part = rn_protonk_stg2
+			part = rn_proton_rd0210
+			part = rn_proton_rd253
+			part = rn_proton_stg1_adapt
+			part = HGAProtonLaunchpad
+			part = HGAProtonRD-0210_Thrustplate
+			part = HGAProtonStage2
+			part = HGAProtonStage1
+			part = HGAProton15D4
+			part = HGAProton8D84
+			part = HGAProtonRD-0210
+			part = HGAProtonRD-253
+			part = ALV_2_Engine_1
+			part = ALV_LFO_A
+		}
+	}
 	RDNode
 	{
 		id = proton3
@@ -713,7 +1421,35 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = ALV_LFO_B
+			part = ALV_Motor_B
+			part = rn_protonk_stg3
+			part = rn_proton_rd0212
+			part = rn_proton_vernier
+			part = rn_protonk_stg3_decoupler
+			part = rn_proton_stg2_adapt
+			part = rn_protonk_stg3_decoupler_extended
+			part = HGAProtonFairingHinge
+			part = HGAFairingCap
+			part = HGAFairingCap24
+			part = HGAProtonFairingAlower
+			part = HGAProtonFairingAupper
+			part = HGAProtonFairingBlower
+			part = HGAProtonFairingBupper
+			part = HGAProtonFairingClower
+			part = HGAProtonFairingCupper
+			part = HGAProtonFairingDlower
+			part = HGAProtonFairingDupper
+			part = HGAProtonFairingBase
+			part = HGAProtonFairingBase24
+			part = HGAProtonFairingBaseDark
+			part = HGAProtonFairingBaseDark24
+			part = HGAProtonStage3
+			part = HGAProtonRD-0214
+		}
+	}
 	RDNode
 	{
 		id = r73
@@ -733,7 +1469,10 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+		}
+	}
 	RDNode
 	{
 		id = USSRstage2
@@ -753,7 +1492,25 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = TLV_Engine_B
+			part = TLV_Decoupler_A
+			part = TLV_LFO_D
+			part = TLV_Fairing_A
+			part = RK-Z-0110
+			part = TLV_Engine_B
+			part = Union-1_LFO3
+			part = SSTU-SC-ENG-RD-0110
+			part = rn_r7_blok_i
+			part = rn_r7_vernier_blok_i_s_fg
+			part = R7_BLOCK_I
+			part = RD_0110
+			part = TLV_2_Engine_1
+			part = TLV_2_LFO_1
+			part = TLV_2_Fairing_1
+		}
+	}
 	RDNode
 	{
 		id = USSRprobes3
@@ -773,7 +1530,22 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = luna9_als
+			part = luna13_als
+			part = luna_als
+			part = luna11_als
+			part = luna_astro
+			part = l11_astro
+			part = l11_radio
+			part = luna_radio
+			part = luna9_airbag_cvr
+			part = luna_dec
+			part = luna_ktdu
+			part = Libra_Antenna_A
+		}
+	}
 	RDNode
 	{
 		id = USSRprobes4
@@ -793,7 +1565,15 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = Agena_Control_A
+			part = Agena_Mono_A
+			part = Agena_RCS_A
+			part = Agena_Solar_A
+			part = Agena_Structure_A
+		}
+	}
 	RDNode
 	{
 		id = USSRprobes5
@@ -813,7 +1593,27 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = ca_fom_drogue
+			part = ca_fom_heatS
+			part = ca_fom_parachute
+			part = ca_fom_solar
+			part = ca_vor_camera
+			part = ca_vor_comm
+			part = ca_vor_dish
+			part = ca_vor_engine
+			part = ca_vor_mag
+			part = ca_vor_mptank
+			part = ca_vor_sar
+			part = ca_vor_sep1
+			part = ca_vor_sp
+			part = ca_vor_sp2
+			part = ca_vor_tank
+			part = ca_fom_lander
+			part = ca_vor_core
+		}
+	}
 	RDNode
 	{
 		id = soyuz3
@@ -833,7 +1633,22 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = t_pao
+			part = t_bo
+			part = t_af_bo
+			part = rn_astp_bo
+			part = Kosmos_APAS_69
+			part = rn_7k_astp_lsolar
+			part = rn_7k_astp_rsolar
+			part = rn_apas75
+			part = t_dp
+			part = rn_r7_soyuz_fairing
+			part = Vega_Antenna_C
+			part = Tantares_Antenna_1
+		}
+	}
 	RDNode
 	{
 		id = salyut1
@@ -853,7 +1668,46 @@ TechTree
 			lineFrom = TOP
 			lineTo = BOTTOM
 		}
-			}
+		Unlocks
+		{
+			part = Vega_Crew_A
+			part = Vega_Engine_A
+			part = Vega_Engine_B
+			part = Vega_Propellant_A
+			part = Kosmos_TKS_Solar_Array
+			part = SSTU-ST-GEN-DSP-DOS-SF
+			part = Kosmos_Salyut_RCS
+			part = SSTU-SC-GEN-RCS-6A-T
+			part = Kosmos_Salyut_1.5_Propulsion_Unit
+			part = SSTU-ST-TANTARES-SALYUT
+			part = almaz_sr_retro
+			part = almaz_sample_return
+			part = salyut1-4
+			part = almaz3-5
+			part = salyut_asas
+			part = almaz_pan_l
+			part = almaz_pan_r
+			part = s1_lsolar
+			part = s1_rsolar
+			part = almaz_sr_para
+			part = s1_dp
+			part = Kosmos_TKS_Solar_Array_rn2
+			part = almaz_sr_dec
+			part = rn_proton_stg3_adapt
+			part = rn_salyut1_fairing
+			part = rn_almaz_fairing
+			part = rn_salyut467_fairing
+			part = HGAProtonFairingExtenderSaljut
+			part = HGAProtonFairingExtenderSaljut24
+			part = Eridani_Crew_1
+			part = Eridani_Antenna_1
+			part = Eridani_DockingMechanism_2
+			part = Eridani_NodeSupport_1
+			part = Eridani_Solar_3_1
+			part = Eridani_Solar_3_2
+			part = Vega_Crew_F
+		}
+	}
 	RDNode
 	{
 		id = salyut2
@@ -873,7 +1727,38 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = Vega_Crew_G
+			part = Vega_Propellant_B
+			part = Auva_RCS_A
+			part = Auva_RCS_B
+			part = Alnair_Structure_C
+			part = Alnair_Structure_D
+			part = Kosmos_Salyut_Solar_Array
+			part = Kosmos_Salyut_1.5-1_Taper
+			part = Kosmos_Salyut_2-1.5_Taper
+			part = Kosmos_Salyut_body_1.5
+			part = Kosmos_Salyut_body_2
+			part = Kosmos_Salyut_body_3
+			part = Kosmos_Salyut_3-2_Taper
+			part = SSTU-ST-GEN-DSP-DOS-MF
+			part = salyut6
+			part = salyut7
+			part = s6_dp
+			part = Kosmos_Salyut_Solar_Array2
+			part = Kosmos_Salyut_Solar_Array_rn
+			part = rn_salyut7_fairing
+			part = Eridani_Crew_2
+			part = Eridani_Engine_1
+			part = Eridani_Mount_2
+			part = STXCANIOT
+			part = Eridani_Crew_2
+			part = Acamar_SolarLab_1
+			part = Eridani_Mount_1
+			part = Eridani_Mount_2
+		}
+	}
 	RDNode
 	{
 		id = soyuz4
@@ -893,7 +1778,24 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = t_pao2
+			part = tg_sa
+			part = tg_bo
+			part = rn_r7_blok_i_fairing_s
+			part = U_HAB-INF_1250_2500
+			part = U_HAB-LAB_1250_2500
+			part = Tantares_SolarStandard_1
+			part = Tantares_SolarStandard_2
+			part = Tantares_Crew_1a
+			part = Hamal_Control_C
+			part = Hamal_Control_A
+			part = Hamal_Habitation_A
+			part = Hamal_Habitation_B
+			part = Tantares_Crew_1
+		}
+	}
 	RDNode
 	{
 		id = tks
@@ -919,7 +1821,48 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = Alnair_Orbital_A
+			part = Alnair_Crew_B
+			part = Alnair_Cargo_A
+			part = Alnair_Orbital_B
+			part = Alnair_Engine_B
+			part = Alnair_LES_A
+			part = Alnair_Engine_A
+			part = Alnair_Mono_B
+			part = Alnair_Mono_C
+			part = Alnair_MonoSolar_A
+			part = Alnair_Mono_A
+			part = Alnair_Decoupler_B
+			part = Alnair_Parachute_B
+			part = Vega_Solar_D
+			part = Vega_Solar_E
+			part = Kosmos_TKS_body_2
+			part = Kosmos_TKS_RCS
+			part = SSTU-SC-GEN-RCS-8A-T
+			part = Kosmos_Pravilo_ASAS
+			part = Kosmos_Parom_RCS_Tank
+			part = Kosmos_TKS_RCS_Tank
+			part = Kosmos_TKS_RCS_Tank_Radless
+			part = Kosmos_TKS_2-1_Flared_Taper
+			part = SSTU-ST-DOS-TKS
+			part = SSTU-ST-KOSMOS-TKS
+			part = SSTU-ST-KOSMOS-TKS-VA
+			part = SSTU-ST-TANTARES-TKS
+			part = Kosmos_Pravilo_Control_Collar
+			part = rn_tks
+			part = Kosmos_TKS_Solar_Array_rn
+			part = rn_tks_fairing
+			part = rn_tks_rcs_block
+			part = HGAProtonFairingExtender
+			part = HGAProtonFairingExtender24
+			part = Alnair_Antenna_A
+			part = SXTCrewCabSSP10
+			part = SXTSPKTRCabin
+			part = Alniyat_Crew_1
+		}
+	}
 	RDNode
 	{
 		id = mir
@@ -945,7 +1888,61 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = Tantares_DockingCompartment_A
+			part = Tantares_DockingCompartment_B
+			part = Hamal_MonoBox_B
+			part = Alnair_Crew_C
+			part = Alnair_Structure_A
+			part = Alnair_Structure_B
+			part = Alnair_Structure_E
+			part = Hamal_Adapter_A
+			part = Hamal_Adapter_B
+			part = Vega_NodeSupport_A
+			part = Kosmos_Berthing_Node_Hexaway
+			part = SSTU-ST-GEN-DSP-BKT-B
+			part = SSTU-ST-GEN-DSP-BKT-C
+			part = SSTU-ST-GEN-DSP-BKT-A
+			part = SSTU-ST-GEN-DSP-DOS-S
+			part = SSTU-ST-GEN-DSP-DOS-M
+			part = SSTU-ST-GEN-DSP-DOS-L
+			part = SSTU-ST-DOS-LAB
+			part = SSTU-ST-DOS-HAB
+			part = SSTU-ST-DOS-COM
+			part = SSTU-ST-TANTARES-MIR
+			part = rn_proton_fgb_fairing
+			part = Acamar_Lab_1
+			part = Acamar_SolarLab_1
+			part = Rana_Mount_1
+			part = Rana_Port_1
+			part = Rana_Truss_1
+			part = Rana_Truss_2
+			part = Eridani_Solar_1_1
+			part = Eridani_Solar_1_2
+			part = Eridani_SolarDorsal_1
+			part = Eridani_SolarDorsal_2
+			part = Eridani_Node_1
+			part = Eridani_Lab_1
+			part = Vega_Antenna_B
+			part = SXTCrewCabSSP20
+			part = Rana_Port_1
+			part = Rana_Truss_1
+			part = Rana_Truss_2
+			part = Rana_Mount_1
+			part = Eridani_Node_1
+			part = Acamar_Lab_1
+			part = Eridani_Solar_1_1
+			part = Eridani_Solar_1_2
+			part = Eridani_Solar_3_1
+			part = Eridani_Solar_3_2
+			part = Eridani_SolarDorsal_2
+			part = Eridani_SolarDorsal_1
+			part = Eridani_DockingMechanism_1
+			part = Eridani_Solar_2_1
+			part = Eridani_Solar_2_2
+		}
+	}
 	RDNode
 	{
 		id = n111
@@ -965,7 +1962,20 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = LLV_V_Engine_1
+			part = LLV_G_Engine_1
+			part = LLV_G_LFO_3
+			part = LLV_G_LFO_2
+			part = LLV_G_LFO_1
+			part = LLV_G_Decoupler_1
+			part = fairingSize2
+			part = N1-Stabilizer-anim
+			part = N1-Stabilizer-anim
+			part = SXTNK21BlockV
+		}
+	}
 	RDNode
 	{
 		id = n11
@@ -985,7 +1995,13 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = LLV_B_Engine_1
+			part = LLV_B_Decoupler_1
+			part = SXTK1Base5m
+		}
+	}
 	RDNode
 	{
 		id = n1
@@ -1005,7 +2021,18 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = N1-Stabilizer
+			part = LLV_A_LFO_1
+			part = LLV_A_Engine_1
+			part = LLV_A_Decoupler_1
+			part = NK33_StockVersion
+			part = NK43_StockVersion
+			part = SXTK1BaseLarge
+			part = liquidEngine1-2
+		}
+	}
 	RDNode
 	{
 		id = USSRstage3
@@ -1025,7 +2052,12 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = RD0124
+			part = RD0124a
+		}
+	}
 	RDNode
 	{
 		id = blokd
@@ -1045,7 +2077,16 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = rn_proton_blockd
+			part = rn_proton_blockd_v
+			part = rn_proton_blockd_dec
+			part = rn_proton_blockd_dec_z
+			part = SUS_LFO_1
+			part = SUS_Engine_1
+		}
+	}
 	RDNode
 	{
 		id = brizm
@@ -1065,7 +2106,24 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = Alnair_LK_Engine_A
+			part = Alnair_LK_Service_A
+			part = HGABreezeDecoupler0625
+			part = HGABreezeDecoupler
+			part = HGABreezeRCS
+			part = HGABreezeTank
+			part = HGABreezeCore
+			part = HGAMiscSphericalTank
+			part = HGABreeze14D30
+			part = HGABreezeAntennaGlonass
+			part = HGABreezeAntennaTelemetry
+			part = HGABreezeAntennaTracking
+			part = HGABreezeFuelBeam
+			part = SXTKOPO4E
+		}
+	}
 	RDNode
 	{
 		id = fregat
@@ -1085,7 +2143,18 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = TUS_Engine_1
+			part = TUS_LFO_1
+			part = rn_fregat1
+			part = rn_fregat1_adapter
+			part = rn_r7_adapter_blok_i
+			part = rn_r7_blok_i_fairing
+			part = ca_linkor
+			part = restock-engine-125-pug
+		}
+	}
 	RDNode
 	{
 		id = ur700
@@ -1105,7 +2174,10 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+		}
+	}
 	RDNode
 	{
 		id = USSRstage4
@@ -1125,7 +2197,12 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = RK-Z-0124_1250
+			part = RD0124_StockVersion
+		}
+	}
 	RDNode
 	{
 		id = USSRnukes
@@ -1151,7 +2228,11 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = Castor_Nerva
+		}
+	}
 	RDNode
 	{
 		id = USSRcryo1
@@ -1171,7 +2252,10 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+		}
+	}
 	RDNode
 	{
 		id = USSRcryo2
@@ -1191,7 +2275,10 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+		}
+	}
 	RDNode
 	{
 		id = energia1
@@ -1211,7 +2298,26 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = ABL_adapter_5_3
+			part = ABL_5tank9
+			part = ABL_LFO_A
+			part = ABL_Nose_A
+			part = ABL_Engine_A
+			part = RK-Z-0120
+			part = RK-Z-0120_1250
+			part = ABL_adapter_5_2
+			part = ABL_nosecone3
+			part = RD0120_StockVersion
+			part = rn_zenit_rd171
+			part = rn_zenit_stg1
+			part = cryoengine-375-2
+			part = fueltank-adapter-5-375-2
+			part = fueltank-adapter-5-375-3
+			part = fueltank-5-1
+		}
+	}
 	RDNode
 	{
 		id = r74
@@ -1231,7 +2337,10 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+		}
+	}
 	RDNode
 	{
 		id = zenit
@@ -1251,7 +2360,21 @@ TechTree
 			lineFrom = TOP
 			lineTo = BOTTOM
 		}
-			}
+		Unlocks
+		{
+			part = ABL_LFO_C
+			part = ABL_LFO_B
+			part = ABL_Decoupler_A
+			part = rn_zenit_rd120
+			part = rn_zenit_rd8
+			part = rn_zenit_stg2
+			part = rn_zenit_p_dec
+			part = rn_zenit_interstage
+			part = rn_zenit_fairing_11_152
+			part = rn_zenit_fairing_13_652
+			part = SXTKD170
+		}
+	}
 	RDNode
 	{
 		id = energia2
@@ -1271,7 +2394,17 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = ABL_5tank18
+			part = ABL_5tank_nose
+			part = ABL_5_cyclone4
+			part = RD171_StockVersion
+			part = fueltank-nosecone-5-1
+			part = drone-core-5-1
+			
+		}
+	}
 	RDNode
 	{
 		id = r75
@@ -1291,7 +2424,16 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = RK-Z-108
+			part = RK-Z-107
+			part = Union-2-UpperCore
+			part = R7-Core
+			part = R7-Booster
+			part = SOYUZ_F_2
+		}
+	}
 	RDNode
 	{
 		id = buran
@@ -1323,7 +2465,14 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = CXA_APAS_P
+			part = OMSEngineA
+			part = CXA_APAS_A_L04F
+			part = BuranButt
+		}
+	}
 	RDNode
 	{
 		id = USSRprobes6
@@ -1343,7 +2492,11 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			
+		}
+	}
 	RDNode
 	{
 		id = soyuz5
@@ -1363,7 +2516,35 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = SSTU-SC-A-SMX
+			part = SSTU-SC-A-DM
+			part = SSTU-SC-A-OM
+			part = SSTU-SC-A-BPC
+			part = SSTU-SC-A-SM
+			part = rn_r7_les
+			part = EAS
+			part = SOYUZ_ENGINE
+			part = SOYUZ_PAO_PROGRESS
+			part = SOYUZ_REENTRY_CAPSULE
+			part = SOYUZ_orbitalSegment
+			part = SOYUZ_PARASHUTE
+			part = SOYUZ_PARASHUTE_SPARE
+			part = SOYUZ_PERESCOPE
+			part = PROGRESS
+			part = SOYUZ_SOLAR_PANEL
+			part = SOYUZdockingPort
+			part = SOYUZ_HEAT_SHIELD
+			part = SOYUZ_SEPARATOR
+			part = SOYUZ_FG1
+			part = SOYUZ_FG2
+			part = PROGRESS_FG1
+			part = SOYUZ_DockingAntenna
+			part = Hamal_Control_B
+			part = Hamal_Control_D
+		}
+	}
 	RDNode
 	{
 		id = lk
@@ -1383,7 +2564,23 @@ TechTree
 			lineFrom = TOP
 			lineTo = BOTTOM
 		}
-			}
+		Unlocks
+		{
+			part = Agena_Port_A
+			part = rn_lk_lander_858
+			part = rn_lk_lander_859
+			part = rn_lk_lander
+			part = rn_lk_lander_legs
+			part = Libra_Antenna_2
+			part = Libra_Nesting_1
+			part = Libra_Ladder_1
+			part = Libra_Leg_1
+			part = Libra_LFO_1
+			part = Libra_Engine_1
+			part = Libra_Crew_1
+			part = Libra_RCS_1
+		}
+	}
 	RDNode
 	{
 		id = kliper
@@ -1409,7 +2606,14 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = FLOSS
+			part = PINBOL
+			part = PINBOL_SM
+			part = PINBOL_ESC
+		}
+	}
 	RDNode
 	{
 		id = opsek
@@ -1429,7 +2633,29 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = Vega_TrussCrew_A
+			part = Vega_Truss_A
+			part = Vega_Truss_B
+			part = Kosmos_Balka_PanelBlock1_Single
+			part = Kosmos_Balka_PanelBlock1
+			part = SSTU-ST-GEN-DSP-DOS-T
+			part = SSTU-ST-DOS-PWR
+			part = SSTU-ST-DOS-FEM
+			part = SSTU-ST-TANTARES-PWR
+			part = SSTU-ST-KOSMOS-PWR
+			part = Kosmos_Balka_1_Skeleton_RCS_Storage
+			part = Kosmos_Balka_1_Tunnel
+			part = Kosmos_Balka_1_Skeleton
+			part = Kosmos_Berthing_Node_Single_Side
+			part = SSTU-ST-CFG-B
+			part = Hadar_Crew_1
+			part = Hadar_Fuselage_1_1
+			part = Hadar_Mount_1_1
+			part = Hadar_Mount_2_1
+		}
+	}
 	RDNode
 	{
 		id = energia3
@@ -1449,7 +2675,18 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{ 
+			part = BoosterWingKRE
+			part = BoosterWingsMountKRE
+			part = cargo-nose-5-1
+			part = service-bay-5-1
+			part = cargo-5-4
+			part = cargo-5-3
+			part = cargo-5-2
+			part = cargo-5-1
+		}
+	}
 	RDNode
 	{
 		id = vulkan
@@ -1475,7 +2712,19 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = ABL_5tank4
+			part = ABL_decoupler_stack5
+			part = fairing-5-1
+			part = cluster-mount-5-1
+			part = decoupler-5-1	
+			part = fueltank-adapter-5-375-1			
+			part = fueltank-5-4
+			part = fueltank-5-3
+			part = fueltank-5-2
+		}
+	}
 	RDNode
 	{
 		id = r76
@@ -1495,7 +2744,17 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = RK-Z-107
+			part = R7-Core
+			part = R7-Booster
+			part = Union-2-UpperCore
+			part = RK-Z-108
+			part = ADAPTER_BLOCK_I2
+			part = liquidEngine2-2_v2
+		}
+	}
 	RDNode
 	{
 		id = angara
@@ -1515,7 +2774,23 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = RD191_StockVersion
+			part = RD0146_StockVersion
+			part = RD191_ANGARA
+			part = URM2
+			part = URM1
+			part = ANGARA_DECOUPLER
+			part = URM1 DEC
+			part = URM2_5_DEC
+			part = URM2 DEC
+			part = FAIRING11P
+			part = FAIRING_5
+			part = FINS
+			part = TOP_FAIRING
+		}
+	}
 	RDNode
 	{
 		id = ppts
@@ -1535,7 +2810,18 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = FEDERAZIJA_3
+			part = FEDERAZIJA_4
+			part = FEDERAZIJA_6
+			part = FEDERAZIJA_C
+			part = Tucana_Crew_A
+			part = PPTS_HEATSHIELD
+			part = PPTS_DECRCS
+			part = Polaris_Heatshield_A
+		}
+	}
 	RDNode
 	{
 		id = r77
@@ -1555,7 +2841,13 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = RK-Z-33
+			part = Union-1_LFO1
+			part = Union-1_LFO2
+		}
+	}
 	RDNode
 	{
 		id = start
@@ -1569,7 +2861,116 @@ TechTree
 		hideEmpty = False
 		hideIfNoBranchParts = False
 		scale = 0.6
-			}
+		Unlocks
+		{
+			part = Mark2Cockpit
+			part = GearFixed
+			part = GearFree
+			part = standardNoseCone
+			part = noseConeAdapter
+			part = miniFuselage
+			part = StandardCtrlSrf
+			part = noseCone
+			part = airplaneTail
+			part = airplaneTailB
+			part = SmallGearBay
+			part = smallCtrlSrf
+			part = smallHardpoint
+			part = pf_tech_fairing04m
+			part = SR_Gridfin_01
+			part = SR_Wing_03
+			part = SR_Battery
+			part = SR_Nosecone_35
+			part = SR_PayloadFairing_35
+			part = SR_PayloadTruss_35
+			part = SR_LaunchStick
+			part = SR_ProbeCore
+			part = SR_Rocket_35_01
+			part = SR_Rocket_35_02
+			part = SR_Payload_03
+			part = SR_Payload_04
+			part = nesdmk1opencockpit
+			part = nesdmk1windshieldsmall
+			part = nesdmk1headrest
+			part = nesdmk1windshieldbig
+			part = Mk1FuselageStructural
+			part = MK1Fuselage
+			part = bluedog_simpleAntenna
+			part = taerobee_aerobee
+			part = taerobee_control
+			part = taerobee_decoupler
+			part = taerobee_despin
+			part = taerobee_largeFin
+			part = taerobee_nosecone
+			part = taerobee_parachute
+			part = taerobee_science
+			part = taerobee_smallFin
+			part = taerobee_sustainerTank_3
+			part = taerobee_science
+			part = taerobee_TinyTim
+			part = SXTWingSmall
+			part = SXTWingSmallHalf
+			part = SXTWingLarge
+			part = SXTelevonSmall
+			part = SXTelevonSmallHalf
+			part = SXTelevonLarge
+			part = 625mBonny
+			part = LMiniAircaftTail
+			part = SXTBuzzard
+			part = SXTke111
+			part = SXTMiniJet
+			part = SXTTinyprop
+			part = SXTKO211Dprop
+			part = SXTKO211prop
+			part = SXTke111
+			part = LMiniAircaftTail
+			part = curved_flag1
+			part = curved_flag2
+			part = curved_flag2b
+			part = curved_flag3
+			part = curved_flag4
+			part = curved_flagV2
+			part = curved_flagV2b
+			part = curved_flagV3
+			part = curved_flagV4
+			part = flat_flag1
+			part = flat_flag2
+			part = flat_flag3
+			part = flat_flag4
+			part = folding_flag
+			part = SXTtruckcabinsmall
+			part = SXTtruckcabin
+			part = KSCTruckAxleNarrowComplex
+			part = KSCTruckAxleWideComplex
+			part = SXTtruckbox
+			part = SXTtruckmiddleSmall
+			part = SXTtruckrearSmall
+			part = SXTtruckmiddle
+			part = SXTtruckrear
+			part = zerocockpit
+			part = 51prop
+			part = hawkerprop
+			part = spadprop
+			part = fokkerprop
+			part = hlfSrf
+			part = stubbytinynose
+			part = TGWheel
+			part = SXTMerlin66prop
+			part = SXTJ213
+			part = SXTPWR2800
+			part = wingConnector4
+			part = wingConnector5
+			part = roundwinglet
+			part = smallwingConnector1
+			part = elevon2b
+			part = smallwingConnector2
+			part = smallwingConnector3
+			part = smallwingConnector4
+			part = smallwingConnector5
+			part = smallwingConnector6
+			part = smallwingConnectortip
+		}
+	}
 	RDNode
 	{
 		id = lk700
@@ -1589,7 +2990,28 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = Alnair_LK_Parachute_A
+			part = Alnair_Parachute_A
+			part = Alnair_Separator_A
+			part = rn_tks_retro
+			part = rn_va_les
+			part = rn_tks_va_rcs
+			part = rn_va_capsule
+			part = Kosmos_VA_RRV_Capsule
+			part = Kosmos_VA_RRV_NavComStab
+			part = Kosmos_VA_RRV_Propulsion_Unit
+			part = Kosmos_VA_RRV_ASAS
+			part = Kosmos_VA_RRV_Escape_Unit
+			part = Kosmos_VA_RRV_Retro_Unit
+			part = rn_va_para
+			part = Kosmos_VA_RRV_LockDown
+			part = rn_va_dec
+			part = Kosmos_VA_RRV_LockDown_Ladderless
+			part = Alnair_Crew_A
+		}
+	}
 	RDNode
 	{
 		id = bigsoyuz
@@ -1609,7 +3031,16 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = ZARYA_hraban
+			part = ZARYA_drei
+			part = ZARYA_k3t
+			part = ZARYA_k4t
+			part = T_Morgenrot
+			part = T_ZARYA_SM
+		}
+	}
 	RDNode
 	{
 		id = science1
@@ -1629,7 +3060,48 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = FuelCell
+			part = batteryPack
+			part = longAntenna
+			part = SurfAntenna
+			part = sensorThermometer
+			part = sensorBarometer
+			part = GooExperiment
+			part = probeCoreCube
+			part = hc_navcam
+			part = hc_launchcam
+			part = hc_booster
+			part = aerocam
+			part = aerocam180
+			part = kerbpro
+			part = mumech_hullcam
+			part = hc_kazzelblad
+			part = ca_barometer
+			part = ca_thermometer
+			part = bluedog_cameraLowTech
+			part = Bluedog_Geiger
+			part = bluedog_telstar
+			part = ca_louver_s
+			part = ca_louver_s2
+			part = ca_louver_m
+			part = EjectionCover2A
+			part = EjectionCover2A
+			part = TacWaterPurifier
+			part = TacSabatierRecycler
+			part = TacSabatierRecyclerLarge
+			part = TacSabatierRecyclerLarge375
+			part = TacWaterPurifierLarge
+			part = TacWaterPurifierLarge375
+			part = mumech_MJ2_AR202
+			part = SEP_Box
+			part = LifeSupportMiniPack
+			part = FertilizerMiniPack
+			part = MulchMiniPack
+			part = restock-engine-125-valiant
+		}
+	}
 	RDNode
 	{
 		id = science2
@@ -1649,7 +3121,33 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = batteryBankMini
+			part = solarPanels5
+			part = HighGainAntenna5
+			part = ScienceBox
+			part = science_module
+			part = probeCoreOcto
+			part = sasModule
+			part = spotLight1
+			part = radPanelEdge
+			part = radPanelSm
+			part = bluedog_cameraMidTech
+			part = Bluedog_Micrometeorite
+			part = bluedog_foldingMag
+			part = Bluedog_IonSensor
+			part = dmmagBoom
+			part = dmSolarCollector
+			part = SCANsat_Scanner
+			part = bluedog_dipole
+			part = bluedog_domeAntenna
+			part = bluedog_solarBattery
+			part = mumech_MJ2_AR202_features1
+			part = Castor_Control_1_N
+			part = LS_Tank_125
+		}
+	}
 	RDNode
 	{
 		id = science3
@@ -1669,7 +3167,41 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = solarPanels4
+			part = solarPanels3
+			part = RelayAntenna5
+			part = mediumDishAntenna
+			part = sensorGravimeter
+			part = probeCoreHex
+			part = avionicsNoseCone
+			part = JSIPrimitiveExternalCamera
+			part = hc_nightvision
+			part = hc_wideangle
+			part = advSasModule
+			part = asasmodule1-2
+			part = foldingRadSmall
+			part = radPanelLg
+			part = ca_gravioli
+			part = bluedog_cameraHighTech
+			part = bluedog_IRspec
+			part = bluedog_hydrometer
+			part = rpwsAnt
+			part = dmscope
+			part = dmReconSmall
+			part = dmSIGINT.Small
+			part = SCANsat_Scanner2
+			part = bluedog_OSO_Instrument
+			part = TacWaterSplitter
+			part = mumech_MJ2_AR202_features3
+			part = Castor_Control_1_O
+			part = ca_startrack
+			part = SEP_StorageShort
+			part = USILS_ViewingCupola
+			part = LS_Tank_250
+		}
+	}
 	RDNode
 	{
 		id = science4
@@ -1689,7 +3221,41 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = HECS2_ProbeCore
+			part = LgRadialSolarPanel
+			part = largeSolarPanel
+			part = rtg
+			part = batteryBank
+			part = HighGainAntenna
+			part = commDish
+			part = sensorAtmosphere
+			part = SurveyScanner
+			part = probeCoreOcto2
+			part = SSTU-SC-GEN-RMB
+			part = hc_scicam
+			part = roverWheel1
+			part = dmASERT
+			part = dmGoreSat
+			part = dmImagingPlatform
+			part = dmReconLarge
+			part = dmSIGINT
+			part = SCANsat_Scanner24
+			part = TacCarbonExtractor
+			part = TacCarbonExtractorLarge
+			part = TacCarbonExtractorLarge375
+			part = Castor_Control_1_P
+			part = ca_aacs
+			part = USILS_Greenhouse_MiniCupola
+			part = USILS_Recycler
+			part = USILS_SmCupola
+			part = Fert_Tank_125
+			part = LS_Tank_375
+			part = ionEngine
+			part = xenonTankRadial
+		}
+	}
 	RDNode
 	{
 		id = science5
@@ -1709,7 +3275,38 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = roverBody
+			part = ksp_r_largeBatteryPack
+			part = solarPanels2
+			part = solarPanels1
+			part = RelayAntenna50
+			part = OrbitalScanner
+			part = SurfaceScanner
+			part = sensorAccelerometer
+			part = spotLight2
+			part = roverWheel2
+			part = ca_accelerometer
+			part = dmAnomScanner
+			part = dmBathymetry
+			part = dmbioDrill
+			part = dmDAN
+			part = dmsurfacelaser
+			part = dmRoverGoo
+			part = dmRoverMat
+			part = dmSeismicPod
+			part = dmSeismicHammer
+			part = dmXRay
+			part = SCANsat_Scanner32
+			part = SCANsat_Tracker
+			part = mumech_MJ2_AR202_features4
+			part = SEP_StorageLong
+			part = USILS_Greenhouse_Cupola
+			part = USILS_LgRecycler
+			part = Fert_Tank_250
+		}
+	}
 	RDNode
 	{
 		id = science6
@@ -1729,7 +3326,24 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = batteryBankLarge
+			part = FuelCellArray
+			part = RelayAntenna100
+			part = Large_Crewed_Lab
+			part = roverWheel3
+			part = wheelMed
+			part = foldingRadMed
+			part = foldingRadLarge
+			part = dmSIGINT.End
+			part = mumech_MJ2_AR202_features2
+			part = USILS_Greenhouse_Inline
+			part = Fert_Tank_375
+			part = xenonTankLarge
+			part = xenonTank
+		}
+	}
 	RDNode
 	{
 		id = USSRprobes7
@@ -1749,7 +3363,10 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+		}
+	}
 	RDNode
 	{
 		id = USprobes1
@@ -1769,7 +3386,18 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_PioneerKick
+			part = bluedog_solarAntenna
+			part = bluedog_Explorer1
+			part = CWP_vanguard
+			part = bluedog_Sargent_1xDecoupler
+			part = bluedog_Pioneer1
+			part = bluedog_Pioneer4
+			part = bluedog_explorer7probe
+		}
+	}
 	RDNode
 	{
 		id = USprobes2
@@ -1789,7 +3417,19 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_OSO_Panel
+			part = bluedog_rangerDish
+			part = bluedog_rangerCore
+			part = SXTHECSRanger
+			part = bluedog_rangerBattery
+			part = bluedog_rangerSolar
+			part = bluedog_loEngine
+			part = bluedog_LOantenna
+			part = bluedog_LOdish
+		}
+	}
 	RDNode
 	{
 		id = USProbes3
@@ -1809,7 +3449,18 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = ca_landv_battery
+			part = ca_landv_cam_s1
+			part = ca_landv_core
+			part = ca_landv_hga
+			part = ca_landv_omni
+			part = ca_landv_soilScoop
+			part = ca_landv_srm
+			part = ca_landv_vernier
+		}
+	}
 	RDNode
 	{
 		id = USprobes4
@@ -1829,7 +3480,15 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_veneraProbe
+			part = bluedog_pioneerSolar
+			part = bluedog_mariner2Antenna
+			part = bluedog_mariner4Antenna
+			part = bluedog_mariner4Dish
+		}
+	}
 	RDNode
 	{
 		id = mercury
@@ -1849,7 +3508,17 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_mercurySRB
+			part = bluedog_mercuryPod
+			part = bluedog_mercuryRCS
+			part = bluedog_mercuryHeatshield
+			part = bluedog_mercuryScience
+			part = bluedog_mercuryLES
+			part = bluedog_125mDecoupler
+		}
+	}
 	RDNode
 	{
 		id = gemini
@@ -1869,7 +3538,19 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_Gemini_Service_A
+			part = bluedog_Gemini_RotationRCS
+			part = bluedog_Gemini_TranslationRCS
+			part = bluedog_Gemini_RCS_A
+			part = bluedog_Gemini_RCS_B
+			part = bluedog_gemini_cap
+			part = bluedog_Gemini_Port_A
+			part = bluedog_Gemini_Parachute_A
+			part = bluedog_Gemini_Port_A
+		}
+	}
 	RDNode
 	{
 		id = apollo
@@ -1895,7 +3576,38 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_Apollo_Block2_ServiceEngine
+			part = bluedog_Apollo_Block2_ServiceModule
+			part = bluedog_Apollo_Block2_Capsule
+			part = bluedog_Apollo_Block2_RCSlinear
+			part = bluedog_Apollo_Block2_RCSquad
+			part = bluedog_Apollo_Block2_Heatshield
+			part = bluedog_scimitar
+			part = bluedog_Apollo_Block2_HGA
+			part = bluedog_Apollo_Block2_ActiveDockingMechanism
+			part = bluedog_Apollo_Block2_PassiveDockingMechanism
+			part = bluedog_Apollo_Block2_Decoupler
+			part = bluedog_Apollo_Block2_ParachuteMount
+			part = bluedog_Apollo_Block2_LES
+			part = bluedog_Apollo_Block2_DockingLight
+			part = bluedog_Apollo_Block2_Parachute
+			part = bluedog_Apollo_Block5_HGA
+			part = SSTU-SC-B-SM
+			part = SSTU-SC-B-SM3
+			part = SSTU-SC-B-BPC
+			part = SSTU-SC-B-CM
+			part = SSTU-SC-B-CMX
+			part = SSTU-SC-ENG-AJ10-137
+			part = SSTU-SC-GEN-HGA
+			part = bluedog_Apollo_Block2_Decoupler
+			part = bluedog_Apollo_Block2_ActiveDockingMechanism
+			part = bluedog_Apollo_Block2_PassiveDockingMechanism
+			part = LiquidEngineRE-J10
+			part = restock-engine-schnauzer-1
+		}
+	}
 	RDNode
 	{
 		id = gemini2
@@ -1915,7 +3627,19 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_Gemini_Resupply_Capsule
+			part = bluedog_Gemini_LanderCan
+			part = bluedog_Gemini_Crew_B
+			part = bluedog_Gemini_Heatshield_B
+			part = bluedog_Gemini_MalhenaSM
+			part = bluedog_malhenaSolar
+			part = bluedog_Gemini_SmallShortAdapter
+			part = CLS1K
+			part = Paraglider
+		}
+	}
 	RDNode
 	{
 		id = redstone
@@ -1935,7 +3659,19 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_RedstoneShortTank
+			part = bluedog_RedstoneLongTank
+			part = bluedog_redstone
+			part = bluedog_125mFairing
+			part = bluedog_redstoneCS
+			part = bluedog_Juno_9375mAdapter
+			part = bluedog_thor9375mAdapter
+			part = bluedog_125mDecoupler
+			part = liquidEngine
+		}
+	}
 	RDNode
 	{
 		id = jupiter
@@ -1955,7 +3691,16 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_Juno_EngineVernier
+			part = bluedog_Juno_EngineS3D
+			part = bluedog_Juno_LowerTank2
+			part = bluedog_Juno_LowerTank1
+			part = bluedog_Juno_15mAdapter
+			part = bluedog_Juno_EngineFairing
+		}
+	}
 	RDNode
 	{
 		id = mercury2
@@ -1975,7 +3720,13 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_Gemini_Crew_A
+			part = bluedog_Gemini_Heatshield_A
+			part = bluedog_Gemini_Structure_A
+		}
+	}
 	RDNode
 	{
 		id = thor
@@ -1995,7 +3746,18 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_thorEngine
+			part = bluedog_thorLongAdapter
+			part = bluedog_Thor125m625mLongAdapter
+			part = bluedog_thorShorterAdapter
+			part = bluedog_thorShortTank
+			part = bluedog_thorShortAdapter
+			part = bluedog_thorLongTank
+			part = bluedog_thorEngineFairing
+		}
+	}
 	RDNode
 	{
 		id = delta1
@@ -2015,7 +3777,11 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_thorXLtank
+		}
+	}
 	RDNode
 	{
 		id = USsolids1
@@ -2035,7 +3801,12 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_alcyone
+			part = bluedog_star20
+		}
+	}
 	RDNode
 	{
 		id = able1
@@ -2055,7 +3826,17 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_ableEngine
+			part = bluedog_ableTank
+			part = bluedog_shortableTank
+			part = bluedog_thor625mAdapter
+			part = bluedog_625mDecoupler
+			part = bluedog_ableFairing
+			part = SXTAJ10
+		}
+	}
 	RDNode
 	{
 		id = able2
@@ -2075,7 +3856,15 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_ablestarEngine
+			part = bluedog_ablestarTank
+			part = bluedog_9375mDecoupler
+			part = SSTU-SC-ENG-LR81-8048
+			part = SXTAJ10Mid
+		}
+	}
 	RDNode
 	{
 		id = USsolids2
@@ -2095,7 +3884,11 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_star31
+		}
+	}
 	RDNode
 	{
 		id = junoiv
@@ -2115,7 +3908,14 @@ TechTree
 			lineFrom = TOP
 			lineTo = BOTTOM
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_Juno_Engine6K
+			part = bluedog_Juno_Engine45K
+			part = bluedog_Juno_UpperTank2
+			part = bluedog_Juno_UpperTank1
+		}
+	}
 	RDNode
 	{
 		id = sergeant
@@ -2135,7 +3935,18 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_Sargent_3x
+			part = bluedog_Sargent_11x
+			part = bluedog_mercury_posigradeMotor
+			part = bluedog_Sargent_1x
+			part = bluedog_Sargent_1xDecoupler
+			part = bluedog_Sargent_3xDecoupler
+			part = bluedog_Sargent_3xDecoupler
+			part = bluedog_Sargent_11xDecoupler
+		}
+	}
 	RDNode
 	{
 		id = castor1
@@ -2155,7 +3966,13 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_CastorInline
+			part = bluedog_CastorRadial
+			part = bluedog_castorSRB
+		}
+	}
 	RDNode
 	{
 		id = algol
@@ -2175,7 +3992,12 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_Algol
+			part = bluedog_AlgolRadial
+		}
+	}
 	RDNode
 	{
 		id = castor2
@@ -2195,7 +4017,13 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_Delta_GEM40
+			part = bluedog_Delta_GEM46
+			part = bluedog_Delta_GEM60
+		}
+	}
 	RDNode
 	{
 		id = soltan
@@ -2215,7 +4043,16 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_Soltan_Inline
+			part = bluedog_Soltan_Radial
+			part = bluedog_Soltan_SRBnose
+			part = bluedog_lateraltron
+			part = bluedog_perfectron
+			part = bluedog_retrotron
+		}
+	}
 	RDNode
 	{
 		id = titanSRB1
@@ -2235,7 +4072,17 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_Titan_SRB2seg
+			part = bluedog_Titan_SRB5seg
+			part = bluedog_Titan_SRB5segStack
+			part = bluedog_Titan_SRB7seg
+			part = bluedog_Titan_SRB7segStack
+			part = bluedog_Titan_SRBseparator
+			part = bluedog_Titan_SRBnose
+		}
+	}
 	RDNode
 	{
 		id = titan1
@@ -2255,7 +4102,25 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_LR91_mod1
+			part = bluedog_LR87_SingleChamber
+			part = bluedog_LR87_mod1
+			part = bluedog_LR87_15m
+			part = bluedog_Titan1_BigAdapterMedium
+			part = bluedog_Titan1_FuelTank2
+			part = bluedog_Titan1_FuelTank3
+			part = bluedog_Titan1_FuelTank1
+			part = bluedog_Titan1_NoseProbe
+			part = bluedog_Titan1_15mDecoupler
+			part = bluedog_Titan1_BigAdapterShort
+			part = bluedog_Titan1_SmallAdapter
+			part = bluedog_Titan1_15mFairing
+			part = bluedog_Titan1_15mDecoupler
+			part = bluedog_LR87_SingleChamberVac
+		}
+	}
 	RDNode
 	{
 		id = titan2
@@ -2275,7 +4140,19 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_LR91_mod2
+			part = bluedog_LR87_mod2
+			part = bluedog_Titan2_FuelTank4
+			part = bluedog_Titan2_FuelTank3
+			part = bluedog_Titan2_FuelTank2
+			part = bluedog_Titan2_FuelTank1
+			part = bluedog_Titan2_1875mDecoupler
+			part = bluedog_Titan2_17mFairing
+			part = bluedog_Titan2_1875mDecoupler
+		}
+	}
 	RDNode
 	{
 		id = agenaa
@@ -2295,7 +4172,13 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_AgenaA
+			part = bluedog_agenaShortTank
+			part = bluedog_agenaShortTankM
+		}
+	}
 	RDNode
 	{
 		id = atlas1
@@ -2315,7 +4198,17 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_atlasVernier
+			part = bluedog_stackVernier
+			part = bluedog_atlasBooster
+			part = bluedog_atlasFairingAdapterTank
+			part = bluedog_atlas1AdapterTank
+			part = bluedog_atlas1LongTank
+			part = bluedog_atlasBoosterFairing
+		}
+	}
 	RDNode
 	{
 		id = atlas2
@@ -2335,7 +4228,12 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_atlasSustainer
+			part = liquidEngine2
+		}
+	}
 	RDNode
 	{
 		id = atlas3
@@ -2355,7 +4253,14 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_atlas1MediumTank
+			part = bluedog_atlasDecoupler
+			part = bluedog_atlas1ShortTank
+			part = bluedog_atlasDecoupler
+		}
+	}
 	RDNode
 	{
 		id = USsolids3
@@ -2375,7 +4280,11 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_star37
+		}
+	}
 	RDNode
 	{
 		id = deltak
@@ -2395,7 +4304,18 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_DeltaK_AJ10
+			part = bluedog_DeltaK_ShortTank
+			part = bluedog_DeltaK_LongTank
+			part = bluedog_DeltaK_LowerTank
+			part = bluedog_DeltaK_Interstage
+			part = bluedog_DeltaK_FairingTank
+			part = SSTU-SC-ENG-LR81-8096
+			part = bluedog_DeltaK_Interstage
+		}
+	}
 	RDNode
 	{
 		id = agenab
@@ -2415,7 +4335,17 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_agenaMediumTank
+			part = bluedog_agenaLongWhiteTank
+			part = bluedog_agenaAntenna
+			part = bluedog_agenaProbeCore
+			part = bluedog_agenaNoseCone
+			part = bluedog_agenaPort
+			part = bluedog_agenaPort
+		}
+	}
 	RDNode
 	{
 		id = vega
@@ -2435,7 +4365,16 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_Vega_Engine
+			part = bluedog_Vega_Avionics
+			part = bluedog_centaur1875mAdapterFairing
+			part = bluedog_Vega_EngineMount
+			part = bluedog_Vega_Tankage
+			part = bluedog_Centaur_FairingBase
+		}
+	}
 	RDNode
 	{
 		id = transtage
@@ -2455,7 +4394,13 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_Titan_TranstageEngine
+			part = bluedog_Titan_TranstageTank
+			part = bluedog_Titan_TranstageRCS
+		}
+	}
 	RDNode
 	{
 		id = agenad
@@ -2475,7 +4420,16 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_agenaSecondaryEngine
+			part = bluedog_AgenaD
+			part = bluedog_agenaLongTank
+			part = bluedog_MOL_Propellant
+			part = bluedog_Agena_ResupplyContainer
+			part = bluedog_Agena_MaterialsBay
+		}
+	}
 	RDNode
 	{
 		id = saturn1
@@ -2495,7 +4449,23 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_H1C
+			part = bluedog_H1D
+			part = bluedog_Saturn_S1_Tankage
+			part = bluedog_Saturn_S1_LargeFin
+			part = bluedog_Saturn_S1_SmallFin
+			part = bluedog_Saturn_S1_EngineMount
+			part = SSTU-SC-ENG-H1
+			part = RSBfinSaturnSIblackL
+			part = RSBfinSaturnSIblackS
+			part = RSBfinSaturnSIwhiteL
+			part = RSBfinSaturnSIwhiteS
+			part = RSBtankSaturnSIB
+			part = restock-engine-torch
+		}
+	}
 	RDNode
 	{
 		id = saturn2
@@ -2515,7 +4485,13 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_Saturn_S1_AdvancedFin
+			part = RSBfinSaturnSIB-black
+			part = RSBfinSaturnSIB-white
+		}
+	}
 	RDNode
 	{
 		id = castor3
@@ -2535,7 +4511,12 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_Castor120
+			part = bluedog_Castor30
+		}
+	}
 	RDNode
 	{
 		id = centaur2
@@ -2555,7 +4536,19 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_Centaur_Tank
+			part = bluedog_Centaur_Avionics
+			part = bluedog_Centaur_LargeRCS
+			part = bluedog_Centaur_RL10
+			part = bluedog_Centaur_EngineMountA
+			part = SSTU-SC-ENG-RL10A-3
+			part = SSTU-SC-ENG-RL10A-5
+			part = SSTU-SC-ENG-RL10A-4
+			part = bluedog_Centaur_SmallRCS
+		}
+	}
 	RDNode
 	{
 		id = s4
@@ -2575,7 +4568,24 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_Saturn_S1_Retro
+			part = bluedog_Saturn_S4_Ullage
+			part = bluedog_Saturn_S4_AdapterTank
+			part = bluedog_Saturn_S4_Tankage
+			part = bluedog_Saturn_S4_InstrumentUnit
+			part = bluedog_Saturn_S4_Interstage
+			part = bluedog_Saturn_S4_EngineMount
+			part = bluedog_Saturn_25mFairingBase
+			part = bluedog_Saturn_3125mFairingBase
+			part = bluedog_Saturn_S4_Interstage
+			part = RSBprobeSaturn
+			part = RSBdecouplerSaturnSIV
+			part = RSBtankSaturnSIV
+			part = RSBfairingSaturn4m
+		}
+	}
 	RDNode
 	{
 		id = USsolids4
@@ -2595,7 +4605,11 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_star48
+		}
+	}
 	RDNode
 	{
 		id = haps1
@@ -2615,7 +4629,11 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_HAPS
+		}
+	}
 	RDNode
 	{
 		id = haps2
@@ -2635,7 +4653,11 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_SuperHAPS
+		}
+	}
 	RDNode
 	{
 		id = s4b
@@ -2655,7 +4677,33 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_J2
+			part = bluedog_Saturn_S4B_Tankage
+			part = bluedog_Saturn_S4B_InstrumentUnit
+			part = bluedog_Saturn_S4B_APS
+			part = bluedog_Saturn_S4B_Interstage
+			part = SSTU-SC-ENG-J-2
+			part = bluedog_Saturn_S4B_EngineMount
+			part = bluedog_Saturn_S4B_SLA
+			part = bluedog_Saturn_S4B_SLA_Full
+			part = bluedog_Saturn_S4B_375mFairingBase
+			part = bluedog_Saturn_S4B_WideInterstage
+			part = bluedog_Saturn_S4B_Interstage
+			part = bluedog_Saturn_S4B_WideInterstage
+			part = SXTLT80
+			part = RSBdecouplerSaturnSIVB
+			part = RSBdecouplerSaturnSIVB2
+			part = RSBprobeSaturn2
+			part = RSBsaturnAPS
+			part = RSBtankSaturnSIVB
+			part = RSBullageSaturnSIVB
+			part = RSBfairingSaturn6m
+			part = restock-engine-caravel-1
+			part = LiquidEngineRE-I2
+		}
+	}
 	RDNode
 	{
 		id = s2
@@ -2675,7 +4723,22 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_Saturn_S2_Ullage
+			part = bluedog_Saturn_S2_Tankage
+			part = bluedog_Saturn_S1C_56mDecoupler
+			part = bluedog_Saturn_S2_Interstage
+			part = bluedog_Saturn_S2_EngineMount
+			part = bluedog_Saturn_S2_Interstage
+			part = RSBtankSaturnSII8
+			part = RSBullageSaturnSII
+			part = RSBtankSaturnSII
+			part = RSBdecouplerSaturnSII
+			part = RSBdecouplerSaturnSII8
+			part = 
+		}
+	}
 	RDNode
 	{
 		id = apolloLOR
@@ -2701,7 +4764,19 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_LEM_Descent_Tanks
+			part = bluedog_LEM_Descent_Engine
+			part = bluedog_LEM_Ascent_Engine
+			part = bluedog_LEM_Ascent_Cockpit
+			part = bluedog_LEM_Ascent_Antenna1
+			part = bluedog_LEM_Ascent_Antenna2
+			part = SSTU-SC-ENG-LMAE
+			part = SSTU-SC-ENG-LMDE
+			part = MEMLander
+		}
+	}
 	RDNode
 	{
 		id = apolloDA
@@ -2721,7 +4796,10 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+		}
+	}
 	RDNode
 	{
 		id = delta2
@@ -2747,7 +4825,13 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_Delta2_RS27
+			part = bluedog_Delta2_UpperMainTank
+			part = bluedog_Delta2_LowerMainTank
+		}
+	}
 	RDNode
 	{
 		id = saturn3
@@ -2767,7 +4851,12 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_F1
+			part = SSTU-SC-ENG-F1
+		}
+	}
 	RDNode
 	{
 		id = saturnv
@@ -2787,7 +4876,18 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_Saturn_S1C_Tankage
+			part = bluedog_Saturn_S1C_Fin
+			part = bluedog_Saturn_S1C_EngineMount
+			part = bluedog_Saturn_S2_5625mFairingBase
+			part = bluedog_Saturn_S1C_56mDecoupler
+			part = RSBfairingSaturn10m
+			part = RSBfinSaturnSIC
+			part = RSBtankSaturnSIC
+		}
+	}
 	RDNode
 	{
 		id = titan4
@@ -2807,7 +4907,16 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_LR91_mod4
+			part = bluedog_LR87_mod4
+			part = bluedog_Titan4_FuelTank1
+			part = bluedog_Titan4_FuelTank2
+			part = bluedog_Titan4_FuelTank3
+			part = bluedog_LR87_SingleChamberB
+		}
+	}
 	RDNode
 	{
 		id = titanSRB2
@@ -2827,7 +4936,11 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_Titan_SRB3seg
+		}
+	}
 	RDNode
 	{
 		id = shuttleSRB
@@ -2847,7 +4960,22 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = DirectSRB4
+			part = CA_SRBnose
+			part = CA_boosterPack
+			part = CA_SRBchute
+			part = CA_decouplerSRB
+			part = directCone
+			part = CA_SRB4
+			part = SSTU-SC-ENG-SRB-A
+			part = SSTU-SC-ENG-SRB-B
+			part = SSTU-SC-ENG-SRB-C
+			part = SSTU-SC-ENG-SRB-D
+			part = SXTSize2SRB
+		}
+	}
 	RDNode
 	{
 		id = nova
@@ -2867,7 +4995,12 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = RSBtankSaturnSIC8
+			part = Size3AdvancedEngine
+		}
+	}
 	RDNode
 	{
 		id = advsaturn
@@ -2887,7 +5020,14 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_Saturn_S1E_Tankage
+			part = bluedog_Saturn_S1E_EngineMount
+			part = bluedog_F1A
+			part = RSBtankSaturnSIE
+		}
+	}
 	RDNode
 	{
 		id = saturnMLV
@@ -2907,7 +5047,10 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+		}
+	}
 	RDNode
 	{
 		id = saturnmultibody
@@ -2927,7 +5070,14 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_Saturn_S1F_Tankage
+			part = bluedog_Titan_SRB7seg_Saturn
+			part = bluedog_Saturn_SRBnose
+			part = RSBtankSaturnSIF
+		}
+	}
 	RDNode
 	{
 		id = USprobes5
@@ -2947,7 +5097,16 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = quetzal
+			part = antenna_quetzal
+			part = dish_quetzal
+			part = ca_ESM
+			part = ca_magneto2
+			part = ca_rtg2000
+		}
+	}
 	RDNode
 	{
 		id = USprobes6
@@ -2967,7 +5126,16 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = torekka
+			part = dish_L
+			part = ca_sciBoom
+			part = ca_rtg3900
+			part = ca_torekka_truss
+			part = ca_torekkaPM
+		}
+	}
 	RDNode
 	{
 		id = shuttle
@@ -2993,7 +5161,17 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = experimentairlock
+			part = spacelab_Short
+			part = spacelab
+			part = OMSEngine
+			part = SSTU-SC-E-FS
+			part = SSTU-SC-ENG-AJ10-190
+			part = CA_EDO
+		}
+	}
 	RDNode
 	{
 		id = aap
@@ -3018,7 +5196,26 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_Apollo_Block3_ServiceEngine
+			part = bluedog_Apollo_Block5_ServiceEngine
+			part = bluedog_Apollo_Block3_ServiceModule
+			part = bluedog_Apollo_Block3_Capsule
+			part = bluedog_Apollo_AARDV_Control
+			part = bluedog_Apollo_Block3_HGA
+			part = bluedog_CXA_APAS_P
+			part = bluedog_CXA_APAS_A_L04F
+			part = bluedog_Apollo_AARDV_NoseAdapter
+			part = bluedog_Apollo_Flat25mStructuralAdapter
+			part = bluedog_Apollo_Block3_MissionModule
+			part = bluedog_Apollo_AARDV_Cargo
+			part = bluedog_Apollo_Block5_SolarPanels
+			part = bluedog_CXA_APAS_A_L04F
+			part = bluedog_CXA_APAS_P
+			part = bluedog_Apollo_Block4_MissionModule
+		}
+	}
 	RDNode
 	{
 		id = mem
@@ -3044,7 +5241,10 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+		}
+	}
 	RDNode
 	{
 		id = srbx
@@ -3070,7 +5270,10 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+		}
+	}
 	RDNode
 	{
 		id = skylab
@@ -3096,7 +5299,18 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = SSTU-ST-SKY-1
+			part = SXTISSHabISK30
+			part = bluedog_Skylab_Airlock
+			part = bluedog_Skylab_OWS
+			part = bluedog_Skylab_Radiator
+			part = bluedog_Skylab_RCS
+			part = bluedog_Skylab_MDA
+			part = bluedog_Skylab_SolarPanel
+		}
+	}
 	RDNode
 	{
 		id = s4c
@@ -3116,7 +5330,13 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_Saturn_S4C_Tankage
+			part = bluedog_Saturn_S4C_EngineMount
+			part = RSBtankSaturnSIVC
+		}
+	}
 	RDNode
 	{
 		id = UScryo1
@@ -3136,7 +5356,12 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_J2_Toroidal
+			part = bluedog_J2S
+		}
+	}
 	RDNode
 	{
 		id = USnukes1
@@ -3156,7 +5381,12 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = nuclearEngine
+			part = SSTU-SC-ENG-NRV
+		}
+	}
 	RDNode
 	{
 		id = cryolifters
@@ -3176,7 +5406,11 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_J2sl
+		}
+	}
 	RDNode
 	{
 		id = ssme
@@ -3196,7 +5430,23 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = 5mtank_10m
+			part = 5mET
+			part = DIRECT_RS25
+			part = 5mtank_5m
+			part = 5mShuttleCone
+			part = 5mtank_2-5m
+			part = 5mEndCap
+			part = SSTU-SC-ENG-RS-25
+			part = SSME
+			part = CA_ETbutt
+			part = CA_ETnose
+			part = CA_ET_extension
+			part = CA_ET
+		}
+	}
 	RDNode
 	{
 		id = delta4
@@ -3216,7 +5466,12 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = SSTU-SC-ENG-RS-68
+			part = cryoengine-375-1
+		}
+	}
 	RDNode
 	{
 		id = shuttlec
@@ -3236,7 +5491,10 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+		}
+	}
 	RDNode
 	{
 		id = shuttle2
@@ -3256,7 +5514,10 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+		}
+	}
 	RDNode
 	{
 		id = freedom
@@ -3276,7 +5537,48 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = CXA_Quest_Airlock
+			part = CXA_APAS_A
+			part = CXA_APAS_A_L04F
+			part = CXA_APAS_P
+			part = CXA_APAS_P_WB
+			part = CXA_ACBM
+			part = CXA_MCBM
+			part = CXA_PCBM
+			part = CXA_ELM_MiniLab
+			part = CXA_Kibo_Lab
+			part = CXA_GymHab
+			part = CXA_KHM_Endcap
+			part = CXA_NapHabV1
+			part = CXA_Node1
+			part = CXA_NodeCoverV1
+			part = CXA_NodeCoverV2
+			part = CXA_SleepHabV4-1
+			part = CXA_SleepHabV4-2
+			part = CXA_SleepHabV6-1
+			part = CXA_SleepHabV6-2
+			part = CXA_PMA
+			part = CXA_EETCS
+			part = CXA_SAW
+			part = CXA_P6_BATTERY_TRUSS
+			part = CXA_P6_LONG_SPACER
+			part = CXA_RTAS_A
+			part = CXA_RTAS_P
+			part = CXA_Z1
+			part = CXA_KU_ANTENNA
+			part = CXA_TRUNNION
+			part = SSTU-ST-COS-HAB-XS
+			part = SSTU-ST-COS-HAB-S
+			part = SSTU-ST-COS-HAB-M
+			part = SSTU-ST-COS-HAB-L
+			part = SSTU-ST-HUB-COS
+			part = SSTU-ST-COS-LAB-L
+			part = SSTU-ST-COS-LAB-M
+			part = SSTU-ST-COS-LAB-S
+		}
+	}
 	RDNode
 	{
 		id = centaur3
@@ -3296,7 +5598,19 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_CentaurT_AdapterTank
+			part = bluedog_CentaurT_WideTank
+			part = bluedog_CentaurT_Avionics
+			part = bluedog_Centaur_RL10B
+			part = bluedog_centaur25mAdapterFairing
+			part = cryoengine-125-2
+			part = bluedog_CentaurT_ShortTank
+			part = SSTU-SC-ENG-RL10B-2
+			part = bluedog_centaur25mAdapterFairing
+		}
+	}
 	RDNode
 	{
 		id = shuttle3
@@ -3316,7 +5630,10 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+		}
+	}
 	RDNode
 	{
 		id = shuttleLRB
@@ -3336,7 +5653,19 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = CA_STME
+			part = CA_STBE
+			part = B2_LRB_nose
+			part = B2_LRB_engine
+			part = CA_heavySep
+			part = B2_LRB_long
+			part = B2_LRB_mid
+			part = CA_decouplerLRB
+			part = 
+		}
+	}
 	RDNode
 	{
 		id = shuttleSRB2
@@ -3356,7 +5685,10 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+		}
+	}
 	RDNode
 	{
 		id = artemis
@@ -3382,7 +5714,12 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = SSTU_LanderCore_LC3-POD
+			part = SSTU-SC-TANK-MFT-L
+		}
+	}
 	RDNode
 	{
 		id = USprobes7
@@ -3402,7 +5739,10 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+		}
+	}
 	RDNode
 	{
 		id = icps
@@ -3428,7 +5768,11 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = SSTU-SC-C-ICPS
+		}
+	}
 	RDNode
 	{
 		id = moonbase
@@ -3448,7 +5792,14 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = SSTU_LanderCore_LC5-POD
+			part = SSTU-ST-CFG-A
+			part = SSTU-ST-HAB-C3
+			part = SSTU-ST-HAB-C1
+		}
+	}
 	RDNode
 	{
 		id = dpcryo1
@@ -3468,7 +5819,11 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_J2_Toroidal250K
+		}
+	}
 	RDNode
 	{
 		id = USnukes2
@@ -3488,7 +5843,12 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = SSTU-SC-ENG-NRV2
+			part = restock-engine-cherenkov
+		}
+	}
 	RDNode
 	{
 		id = atlasv
@@ -3514,7 +5874,13 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_AtlasV_RD180
+			part = bluedog_AtlasVCCB_LowerTank
+			part = bluedog_AtlasVCCB_UpperTank
+		}
+	}
 	RDNode
 	{
 		id = eus
@@ -3540,7 +5906,12 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = SSTU-SC-C-HUS
+			part = restock-engine-375-corgi
+		}
+	}
 	RDNode
 	{
 		id = commercial
@@ -3560,7 +5931,19 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = PLV_Engine_A
+			part = PLV_Engine_B
+			part = PLV_LFO_A
+			part = SSTU-SC-ENG-Merlin-1A
+			part = SSTU-SC-ENG-Merlin-1B
+			part = SSTU-SC-ENG-Merlin-1BV
+			part = Phoenix_Ex_Control_A
+			part = Phoenix_Ex_Control_B
+			part = SSTU-ST-HAB-A1
+		}
+	}
 	RDNode
 	{
 		id = orion
@@ -3580,7 +5963,16 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = directOrion
+			part = SSTU-SC-C-BPC
+			part = SSTU-SC-C-SM
+			part = SSTU-SC-C-CM
+			part = SSTU-SC-C-CMX
+			part = 5mDecoupler
+		}
+	}
 	RDNode
 	{
 		id = USprobes8
@@ -3600,7 +5992,10 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+		}
+	}
 	RDNode
 	{
 		id = discovery
@@ -3620,7 +6015,14 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = SXTDLK83EHabitat
+			part = SSTU-ST-CFG-C
+			part = SSTU-ST-HAB-C2
+			part = SSTU-ST-HAB-C4
+		}
+	}
 	RDNode
 	{
 		id = ares
@@ -3640,7 +6042,13 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = AresAdapter
+			part = DirectSRB5
+			part = B2_LRB_adapterMulti
+		}
+	}
 	RDNode
 	{
 		id = sls
@@ -3660,7 +6068,10 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+		}
+	}
 	RDNode
 	{
 		id = dpcryo2
@@ -3680,7 +6091,12 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = SSTU-SC-ENG-J-2X
+			part = cryoengine-25-2
+		}
+	}
 	RDNode
 	{
 		id = slsboosters
@@ -3706,7 +6122,13 @@ TechTree
 			lineFrom = BOTTOM
 			lineTo = TOP
 		}
-			}
+		Unlocks
+		{
+			part = SSTU-SC-ENG-F1B
+			part = restock-engine-boar
+			part = Size2LFB
+		}
+	}
 	RDNode
 	{
 		id = jupiter2
@@ -3726,7 +6148,14 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = 7mtank_7m
+			part = 7mtank_15m
+			part = fairingSize5
+			part = 7mtank_3m
+		}
+	}
 	RDNode
 	{
 		id = commercial1
@@ -3746,7 +6175,12 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = SSTU-SC-ENG-Merlin-1C
+			part = SSTU-SC-ENG-Merlin-1CV
+		}
+	}
 	RDNode
 	{
 		id = commercialcraft1
@@ -3766,7 +6200,12 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = SSTU-SC-ENG-SuperDraco
+			part = SSTU-ST-HAB-A2
+		}
+	}
 	RDNode
 	{
 		id = commercial3
@@ -3786,7 +6225,10 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+		}
+	}
 	RDNode
 	{
 		id = commercialcraft3
@@ -3806,7 +6248,12 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = SSTU-ST-HAB-B4
+			part = SSTU-ST-HAB-B2
+		}
+	}
 	RDNode
 	{
 		id = internationalcraft3
@@ -3826,7 +6273,10 @@ TechTree
 			lineFrom = TOP
 			lineTo = BOTTOM
 		}
-			}
+		Unlocks
+		{
+		}
+	}
 	RDNode
 	{
 		id = mol
@@ -3846,7 +6296,13 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_MOL_Lab
+			part = bluedog_MOL_ControlSegment
+			part = bluedog_MOL_UnpressurizedCargo
+		}
+	}
 	RDNode
 	{
 		id = commercialcraft2
@@ -3866,7 +6322,13 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = SSTU-SC-ENG-SuperDraco-L
+			part = SSTU-ST-HAB-B1
+			part = SSTU-ST-HAB-B3
+		}
+	}
 	RDNode
 	{
 		id = commercial2
@@ -3886,7 +6348,12 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = SSTU-SC-ENG-Merlin-1D
+			part = SSTU-SC-ENG-Merlin-1DV
+		}
+	}
 	RDNode
 	{
 		id = ares1
@@ -3906,7 +6373,14 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = 5mAdapter1
+			part = 5mAdapter2
+			part = 5mAdapter2
+			part = fairingSize4
+		}
+	}
 	RDNode
 	{
 		id = ares3
@@ -3926,7 +6400,12 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = 5mtankB_2-5m
+			part = 5mtankB_5m
+		}
+	}
 	RDNode
 	{
 		id = paris
@@ -3946,7 +6425,11 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = 5mtankB_10m
+		}
+	}
 	RDNode
 	{
 		id = ares2
@@ -3966,7 +6449,11 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = B2_LRB_adapter5m
+		}
+	}
 	RDNode
 	{
 		id = mol2
@@ -3992,7 +6479,21 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = bluedog_MOL_rackDish
+			part = bluedog_MOL_Airlock
+			part = bluedog_MOL_Hab
+			part = bluedog_MOL_DockingPort
+			part = bluedog_MOL_Adapter_1875_15
+			part = bluedog_MOL_Adapter_15_125
+			part = bluedog_MOL_ThreeWayAdapter
+			part = bluedog_MOL_Solar2
+			part = bluedog_MOL_RCS
+			part = bluedog_MOL_KISmodule
+			part = bluedog_MOL_DockingPort
+		}
+	}
 	RDNode
 	{
 		id = x20
@@ -4018,7 +6519,12 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = CX-20
+			part = CX-20zivil
+		}
+	}
 	RDNode
 	{
 		id = dreamchaser
@@ -4038,7 +6544,12 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = C-DreamCrusherCargo
+			part = C-DreamCrusher
+		}
+	}
 	RDNode
 	{
 		id = hl10
@@ -4058,7 +6569,10 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+		}
+	}
 	RDNode
 	{
 		id = x37
@@ -4078,7 +6592,18 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = CX-37b
+			part = GOGI
+			part = CX-37bSP
+			part = RLV-TDK
+			part = x-37_cargoBay
+			part = x-37_droneCore
+			part = x-37_lfoSlice
+			part = x-37_monoSlice
+		}
+	}
 	RDNode
 	{
 		id = skylaba
@@ -4104,7 +6629,10 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+		}
+	}
 	RDNode
 	{
 		id = props
@@ -4124,7 +6652,20 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = SXTNK12M
+			part = zeroprop
+			part = predatorprop
+			part = tbmProp
+			part = fighterProp
+			part = bellprop
+			part = merlin
+			part = corsairprop
+			part = chaikaprop
+			part = 109Prop
+		}
+	}
 	RDNode
 	{
 		id = jets1
@@ -4144,7 +6685,14 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = JetEngine
+			part = nacelleBody
+			part = CircularIntake
+			part = airScoop
+		}
+	}
 	RDNode
 	{
 		id = jets
@@ -4164,7 +6712,12 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = miniJetEngine
+			part = miniIntake
+		}
+	}
 	RDNode
 	{
 		id = jets2
@@ -4184,7 +6737,14 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = cfm56
+			part = turboJet
+			part = SXTVTOLturboFan
+			part = MK1IntakeFuselage
+		}
+	}
 	RDNode
 	{
 		id = jets4
@@ -4204,7 +6764,12 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = SXTeFan
+			part = mk4turbofan-25-2
+		}
+	}
 	RDNode
 	{
 		id = ramjets
@@ -4224,7 +6789,13 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = turboFanEngine
+			part = radialEngineBody
+			part = shockConeIntake
+		}
+	}
 	RDNode
 	{
 		id = ramjets1
@@ -4244,7 +6815,11 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = mk4turbojet-25-1
+		}
+	}
 	RDNode
 	{
 		id = aerospace5
@@ -4264,7 +6839,18 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = mk4pod-1
+			part = SXTOsualRadCockpit
+			part = SXTOsualRadHullEnd
+			part = SXTOsualRadHull
+			part = SXTAn225Ramp
+			part = adapterMk3-Mk2
+			part = mk3FuselageLFO_25
+			part = GearLarge
+		}
+	}
 	RDNode
 	{
 		id = aerospace6
@@ -4284,7 +6870,16 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = mk4pod-2
+			part = mk4enginenacelle-25-2
+			part = SXTOsaulNoseCockpitAn225
+			part = SXTOsualHullLarge
+			part = SXTadapterSize3Mk3
+			part = mk3galaxy
+		}
+	}
 	RDNode
 	{
 		id = aerospace7
@@ -4304,7 +6899,29 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = mk4cockpit-1
+			part = mk4drone-1
+			part = mk4tail-1
+			part = mk4tail-2
+			part = mk4tail-3
+			part = mk4fueltank-25-2
+			part = mk4fueltank-25-3
+			part = mk4fueltank-25-4
+			part = mk4cockpit-shoulder-3
+			part = mk4nose
+			part = mk4crewcabin-1
+			part = mk4cargo-3
+			part = mk4cargo-drop-3
+			part = mk4servicebay-1
+			part = mk4cargo-2
+			part = mk4cargo-drop-2
+			part = mk4cargotail-1
+			part = mk4fuselage-3
+			part = mk4fuselage-2
+		}
+	}
 	RDNode
 	{
 		id = aerospace8
@@ -4324,7 +6941,17 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = mk4adapter-1
+			part = mk4adapter-2
+			part = mk4adapter-3
+			part = mk4fueltank-25-1
+			part = mk4cargo-1
+			part = mk4cargo-drop-1
+			part = mk4fuselage-1
+		}
+	}
 	RDNode
 	{
 		id = lifting1
@@ -4344,7 +6971,16 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = mk2CrewCabin
+			part = mk2Cockpit_Inline
+			part = mk2SpacePlaneAdapter
+			part = mk2FuselageShortLiquid
+			part = mk2Fuselage
+			part = KUFE
+		}
+	}
 	RDNode
 	{
 		id = lifting2
@@ -4364,7 +7000,21 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = SXTmk2cargoadapter
+			part = mk2DroneCore
+			part = mk2Cockpit_Standard
+			part = adapterSize2-Mk2
+			part = mk2CargoBayS
+			part = mk2CargoBayL
+			part = mk2FuselageShortLFO
+			part = mk2FuselageShortMono
+			part = mk2_1m_Bicoupler
+			part = mk2_1m_AdapterLong
+			part = mk2FuselageLongLFO
+		}
+	}
 	RDNode
 	{
 		id = aerospace
@@ -4384,7 +7034,22 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = SXTfloatFront
+			part = SXTfloatOutboard
+			part = SXTfloatMid
+			part = wingConnector
+			part = wingConnector2
+			part = wingConnector3
+			part = X1_Body
+			part = X1_Crew
+			part = X1_Engine
+			part = X1_Tail
+			part = oldfightercockpit
+			part = SXTAirbrake
+		}
+	}
 	RDNode
 	{
 		id = wings
@@ -4404,7 +7069,20 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = wingStrake
+			part = sweptWing1
+			part = sweptWing2
+			part = winglet
+			part = structuralWing
+			part = structuralWing2
+			part = structuralWing4
+			part = structuralWing3
+			part = tailfin
+			part = sweptWing
+		}
+	}
 	RDNode
 	{
 		id = wings1
@@ -4424,7 +7102,16 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = elevon2
+			part = elevon3
+			part = R8winglet
+			part = airbrake1
+			part = straightslat
+			part = bigwing
+		}
+	}
 	RDNode
 	{
 		id = jets3
@@ -4444,7 +7131,14 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = turboFanSize2
+			part = mk4turbofan-25-1
+			part = IntakeRadialLong
+			part = ramAirIntake
+		}
+	}
 	RDNode
 	{
 		id = fastwings
@@ -4464,7 +7158,13 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = delta_small
+			part = deltaWing
+			part = winglet3
+		}
+	}
 	RDNode
 	{
 		id = wings2
@@ -4484,7 +7184,16 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = airlinerCtrlSrf
+			part = airlinerTailFin
+			part = airlinerMainWing
+			part = spoilerflap
+			part = kruegerflap
+			part = fowlerflap
+		}
+	}
 	RDNode
 	{
 		id = fastwings1
@@ -4504,7 +7213,12 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = CanardController
+			part = elevon5
+		}
+	}
 	RDNode
 	{
 		id = wings3
@@ -4524,7 +7238,18 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = doublefowlerflap
+			part = fatwing0
+			part = fatwing1
+			part = fatwing2
+			part = fatwing3
+			part = fatwing4
+			part = fatwing5
+			part = fatwing6
+		}
+	}
 	RDNode
 	{
 		id = wings4
@@ -4544,7 +7269,10 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+		}
+	}
 	RDNode
 	{
 		id = fastwings2
@@ -4564,7 +7292,11 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+			part = AdvancedCanard
+		}
+	}
 	RDNode
 	{
 		id = wings5
@@ -4584,7 +7316,10 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+		}
+	}
 	RDNode
 	{
 		id = lifting4
@@ -4604,7 +7339,10 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+		}
+	}
 	RDNode
 	{
 		id = lifting5
@@ -4624,7 +7362,10 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+		}
+	}
 	RDNode
 	{
 		id = fastwings3
@@ -4644,7 +7385,10 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+		}
+	}
 	RDNode
 	{
 		id = fastwings4
@@ -4664,7 +7408,10 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+		}
+	}
 	RDNode
 	{
 		id = movingwings
@@ -4684,7 +7431,10 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+		}
+	}
 	RDNode
 	{
 		id = sdhllv
@@ -4704,7 +7454,10 @@ TechTree
 			lineFrom = RIGHT
 			lineTo = LEFT
 		}
-			}
+		Unlocks
+		{
+		}
+	}
 }
 
 
