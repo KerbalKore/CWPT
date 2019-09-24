@@ -60,3 +60,26 @@ NODE LIST:
 * Exotic Cryogenics - USSRcryo2
 * Energia-M - energia1
 * Soyuz-ST - r74
+* Zenit - zenit
+* Energia - energia2
+* Soyuz-FG - r75
+* Buran - buran
+* Advanced Probes - USSRprobes6
+* Soyuz-TM - soyuz5
+* LK - lk
+* Kliper - kliper
+* OPSEK - opsek
+* Energia-II - energia3
+* Vulkan - vulkan
+* Soyuz-2 - r76
+* Angara - angara
+* PPTS - ppts
+* Soyuz-2.1v - r77
+* Early Aviation - naziplanes
+* LK-700 - lk700
+* Большой Soyuz - bigsoyuz
+* Early Scientific Instruments - science1
+* Scientific Instruments - science2
+* Advanced Instruments - science3
+* Interplanetary Instrumentation - science4
+* Surface-Based Instrumentation
