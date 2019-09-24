@@ -82,4 +82,7 @@ NODE LIST:
 * Scientific Instruments - science2
 * Advanced Instruments - science3
 * Interplanetary Instrumentation - science4
-* Surface-Based Instrumentation
+* Surface-Based Instrumentation - science5
+* Long-Term Experimentation - science6
+* Super Advanced Probes - USSRprobes7
+
