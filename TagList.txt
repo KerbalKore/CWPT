@@ -16,6 +16,32 @@ centaurD - Centaur D stage - centaur2
 
 centaurT = Centaur T/G/G' - centaur3
 
+algol - Algol SRM - algol
 
+gen1solids - Altair/Grand Central, BE3 used in SPARTA - USsolids1
+
+gen2solids - Antares SRM (NOTE: Not the antares lifter) - USsolids2
+
+gen3solids - Star37, Burner 1/2 - USsolids3
+
+gen4solids - Star48 - USsolids4 - USsolids4
+
+castorGen1 - Castor4, Scout second stage - castor1
+
+castorGen2 - GEM-40 and GEM-46 - castor2
+
+castorGen3 - Athena/Minotaur/Peacekeeper - castor3
+
+delta - Delta 1000-5000 - deltamid
+
+delta6000 - Delta 6000 - delta6k
+
+delta7000 - Delta7000 - delta7k
+
+delta8000 - Delta III - delta3
+
+dcss - Delta Cryogenic Second Stage - dcss
+
+deltaUS - Delta Upper Stages - deltaUS
 
 
