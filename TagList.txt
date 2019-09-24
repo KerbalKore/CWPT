@@ -1,0 +1,19 @@
+vanguard - vanguard first stage - USstart
+
+thor - Thor missile - thor
+
+able - Able stage - able1
+
+ablestar - Ablestar stage - able2
+
+delta - early deltas - delta1
+
+redstone - Redstone missile - redstone
+
+vega - Vega stage - vega
+
+centaurD - Centaur D stage - centaur2
+
+
+
+
