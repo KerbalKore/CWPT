@@ -85,4 +85,29 @@ NODE LIST:
 * Surface-Based Instrumentation - science5
 * Long-Term Experimentation - science6
 * Super Advanced Probes - USSRprobes7
-
+* Early American Probes - USprobes1
+* Lunar Probes - USprobes2
+* Advanced Lunar Probes - USprobes3
+* Interplanetary Probes - USprobes4
+* Mercury - mercury
+* Gemini - gemini
+* Apollo - apollo
+* Advanced Gemini - gemini2
+* Redstone - redstone
+* Jupiter - jupiter
+* Advanced Mercury - mercury2
+* Delta Upper Stage - deltaUS
+* Thor-Delta - thordelta
+* Vanguard SRM - USsolids1
+* Able - able1
+* Ablestar - able2
+* Altair - USsolids2
+* Juno IV - juno4
+* Sergeant - sergeant
+* Castor - castor1
+======
+* Incremental Delta - deltamid
+* Delta 6000 - delta6k
+* Delta 7000 - delta7k
+* Delta 8000 - delta3
+* DCSS - dcss
