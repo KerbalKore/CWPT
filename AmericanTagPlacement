@@ -1,0 +1,24 @@
+@PART:HAS[techtag[vangaurd]]:LAST
+{
+  @TechRequired = USstart
+}
+@PART:HAS[techtag[thor]]:LAST
+{
+  @TechRequired = thor
+}
+@PART:HAS[techtag[able]]:LAST
+{
+  @TechRequired = able1
+}
+@PART:HAS[techtag[ablestar]]:LAST
+{
+  @TechRequired = able2
+}
+@PART:HAS[techtag[redstone]]:LAST
+{
+  @TechRequired = redstone
+}
+@PART:HAS[techtag[vega]]:LAST
+{
+  @TechRequired = vega
+}
