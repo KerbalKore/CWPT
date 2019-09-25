@@ -1,0 +1,14 @@
+@PART[tantares_lv_fuel_tank_s1_*|tantares_lv_canopus_basic_fin_srf_2|tantares_lv_booster_fuel_tank_s1p5_2|tantares_lv_engine_s1p5_2|tantares_lv_engine_s1_1]:FIRST:NEEDS[TantaresLV]
+{
+  %techtag = R7gen1
+}
+//Blok-I
+@PART[tantares_lv_engine_s1p5_3|tantares_lv_circinus_staging_plate_s1p5_1|tantares_lv_castor_truss_decoupler_s1p5_1]:FIRST:NEEDS[TantaresLV]
+{
+  %techtag = blokI
+}
+//Blok-E
+@PART[AndromedaUS_*|circinus_staging_plate_s1_1|castor_truss_decoupler_s1_1]:FIRST:NEEDS[TantaresLV]
+{
+  %techtag = blokE
+}
