@@ -105,7 +105,24 @@ NODE LIST:
 * Juno IV - juno4
 * Sergeant - sergeant
 * Castor - castor1
-======
+* Algol - algol
+* Advanced Castor - castor2
+* Soltan - soltan
+* UA120s - titanSRB1
+* Titan I - titan1
+* Titan II - titan2
+* Agena A - agenaa
+* Atlas A - atlas1
+* Atlas D - atlas2
+* Atlas SLV-3 - atlas3
+* Solid Upper Stages I - USsolids3
+* Delta-K - deltak
+* Agena B - agenab
+* Vega- vega
+* Transtage - transtage
+* Agena D - agenad
+* Saturn C-1 -saturn1
+======New Nodes======
 * Incremental Delta - deltamid
 * Delta 6000 - delta6k
 * Delta 7000 - delta7k
