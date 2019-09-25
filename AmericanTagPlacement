@@ -22,3 +22,7 @@
 {
   @TechRequired = vega
 }
+@PART:HAS[techtag[sargeant]]:LAST
+{
+  @TechRequired = sergeant
+}
