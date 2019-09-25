@@ -26,3 +26,11 @@
 {
   @TechRequired = sergeant
 }
+@PART:HAS:[techtag[gemini1]]:LAST
+{
+  @TechRequired = gemini
+}
+@PART:HAS:[techtag[geminiAdv]]:LAST
+{
+  @TechRequired = gemini2
+}
