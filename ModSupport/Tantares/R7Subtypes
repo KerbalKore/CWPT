@@ -1,0 +1,62 @@
+@PART[tantares_lv_engine_s1p5_2]:FOR[CWPT]:NEEDS:[TantaresLV,B9PartSwitch]
+{
+  %MODULE
+	{
+	  name = ModuleB9PartSwitch
+	  switcherDescription = Engine Config
+	  switcherDescriptionPlural = Engine Configs
+		moduleID = engineSwitch
+
+	  SUBTYPE
+	  {
+      name = RD-107
+	    title =  Tantares RD-107 "Hagehval" Rocket Engine 
+	    descriptionSummary = Primitive liquid fuel engine
+	    descriptionDetail = <b>Thrust:</b> 250.07 kN Vac / 203.25 kN ASL.\n<b>Isp:</b> 256 s ASL / 313 s Vac.
+			defaultSubtypePriority = 1
+	    MODULE
+			{
+			  IDENTIFIER
+				{
+				  name = ModuleEnginesFX
+					engineID = mainEngine
+				}
+        DATA
+				{
+          maxThrust = 250.07
+					atmosphereCurve
+					{
+					  key = 0 313
+						key = 1 256
+						key = 6 0.001
+					} 
+        }
+      }
+    }
+    SUBTYPE
+	  {
+      name = RD-107MM
+	    title =  Tantares RD-107MM "Hagehval" Rocket Engine 
+	    descriptionSummary = Less thrust, and a whopping 1 second increase in ISP! What a deal!
+	    descriptionDetail = <b>Thrust:</b> 230.465 kN Vac / 188.75 ASL.\n<b>Isp:</b> 257 s ASL / 314 s Vac.
+			defaultSubtypePriority = 1
+	    MODULE
+			{
+			  IDENTIFIER
+				{
+				  name = ModuleEnginesFX
+					engineID = mainEngine
+				}
+        DATA
+				{
+          maxThrust = 188.785
+					atmosphereCurve
+					{
+					  key = 0 314
+						key = 1 257
+						key = 6 0.001
+					} 
+        }
+      }
+    }
+}
