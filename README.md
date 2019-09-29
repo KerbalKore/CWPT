@@ -132,10 +132,22 @@ NODE LIST:
 * S-IVB - s4b
 * S-II - s2
 * Apollo Lunar Orbit Rendezvous - apolloLOR
+* Apollo Direct Ascent - apolloDA
+* Delta 2000 - delta2
+* Saturn C-2/3 - saturn3
+* Saturn V - saturnv
+* Titan IV - titan4
+* Titan ASRMs - titanSRB2
+* Shuttle SRBs - shuttleSRB
+* Nova - nova
+* Advanced Saturn - advsaturn
+* Saturn MLV - saturnMLV
+* Saturn Multibody - saturnmultibody
+* Advanced Interplanetary Probes - USprobes5
 
 * Incremental Delta - deltamid
-* Delta 6000 - delta6k
-* Delta 7000 - delta7k
+* Delta 6000 - delta6
+* Delta 7000 - delta7
 * Delta 8000 - delta3
 * DCSS - dcss
 * 
