@@ -121,10 +121,21 @@ NODE LIST:
 * Vega- vega
 * Transtage - transtage
 * Agena D - agenad
-* Saturn C-1 -saturn1
-======New Nodes======
+* Saturn C-1 - saturn1
+* Saturn IB - saturn2
+* Castor 120 - castor3
+* Centaur-D - centaur2
+* S-IV - s4
+* Solid Upper Stages II - USsolids4
+* HAPS - haps1
+* Super HAPS - haps2
+* S-IVB - s4b
+* S-II - s2
+* Apollo Lunar Orbit Rendezvous - apolloLOR
+
 * Incremental Delta - deltamid
 * Delta 6000 - delta6k
 * Delta 7000 - delta7k
 * Delta 8000 - delta3
 * DCSS - dcss
+* 
