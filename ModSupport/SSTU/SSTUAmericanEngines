@@ -4,7 +4,7 @@
 }
 @PART[SSTU-SC-ENG-F1]:FIRST:NEEDS[SSTU]
 {
-	%techtag = S1C
+	%techtag = f1
 }
 @PART[SSTU-SC-ENG-F1B]:FIRST:NEEDS[SSTU]
 {
@@ -12,7 +12,7 @@
 }
 @PART[SSTU-SC-ENG-H1]:FIRST:NEEDS[SSTU]
 {
-	%techtag = s1
+	%techtag = h1
 }
 @PART[SSTU-SC-ENG-J2]:FIRST:NEEDS[SSTU]
 {
