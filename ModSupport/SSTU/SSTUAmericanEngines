@@ -1,0 +1,72 @@
+@PART[SSTU-SC-ENG-AJ10-137]:FIRST:NEEDS[SSTU]
+{
+	%techtag = apolloGen1
+}
+@PART[SSTU-SC-ENG-F1]:FIRST:NEEDS[SSTU]
+{
+	%techtag = S1C
+}
+@PART[SSTU-SC-ENG-F1B]:FIRST:NEEDS[SSTU]
+{
+	%techtag = pyrios
+}
+@PART[SSTU-SC-ENG-H1]:FIRST:NEEDS[SSTU]
+{
+	%techtag = s1
+}
+@PART[SSTU-SC-ENG-J2]:FIRST:NEEDS[SSTU]
+{
+	%techtag = saturnUpper
+}
+@PART[SSTU-SC-ENG-J2X]:FIRST:NEEDS[SSTU]
+{
+	%techtag = ares1
+}
+@PART[SSTU-SC-ENG-LM*]:FIRST:NEEDS[SSTU]
+{
+	%techtag = LEM
+}
+@PART[SSTU-SC-ENG-RL10A-3]:FIRST:NEEDS[SSTU]
+{
+	%techtag = centaurD
+}
+@PART[SSTU-SC-ENG-RL10A-4]:FIRST:NEEDS[SSTU]
+{
+	%techtag = centaurII
+}
+@PART[SSTU-SC-ENG-RL10A-5]:FIRST:NEEDS:[SSTU]
+{
+	%techtag = USadvCryo
+}
+@PART[SSTU-SC-ENG-RL10B-2]:FIRST:NEEDS[SSTU]
+{
+	%techtag = dcss
+}
+@PART[SSTU-SC-ENG-LR81-8048]:FIRST:NEEDS[SSTU]
+{
+	%techtag = agenaA
+}
+@PART[SSTU-SC-ENG-LR81-8096]:FIRST:NEEDS[SSTU]
+{
+	%techtag = agenaD
+}
+@PART[SSTU-SC-ENG-Merlin-1A|[SSTU-SC-ENG-Merlin-1B|[SSTU-SC-ENG-Merlin-1BV]:FIRST:NEEDS[SSTU]
+{
+	%techtag = falcon1
+}
+@PART[SSTU-SC-ENG-Merlin-1C|SSTU-SC-ENG-Merlin-1CV|SSTU-SC-ENG-Merlin-1D|SSTU-SC-ENG-Merlin-1D]
+{
+	%techtag = falcon9
+}
+@PART[SSTU-SC-ENG-RS-25]
+{
+	%techtag = SSME
+}
+@PART[SSTU-SC-ENG-RS-68]
+{
+	%techtag = deltaIV
+}
+@PART[SSTU-SC-ENG-NRV*]
+{
+	%techtag = NERVA
+}
