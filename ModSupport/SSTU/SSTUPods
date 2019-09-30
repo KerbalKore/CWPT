@@ -1,0 +1,28 @@
+@PART[SSTU-SC-A*]:FIRST:NEEDS[SSTU]
+{
+	%techtag = soyuzGen1
+}
+@PART[SSTU-SC-B*]:FIRST:NEEDS[SSTU]
+{
+	%techtag = apolloGen1
+}
+@PART[SSTU-SC-C*]:FIRST:NEEDS[SSTU]
+{
+	%techtag = orion
+}
+@PART[SSTU-SC-E*]:FIRST:NEEDS[SSTU]
+{
+	%techtag = shuttle
+}
+@PART[SSTU-SC-V*]:FIRST:NEEDS[SSTU]
+{
+	%techtag = tks
+}
+@PART[SSTU-LC2]:FIRST:NEEDS[SSTU]
+{
+	%techtag = LEM
+}
+@PART[SSTU-LC3|SSTU-LC5]:FIRST:NEEDS[SSTU]
+{
+	%techtag = advLanders
+}
