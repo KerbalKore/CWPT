@@ -144,6 +144,43 @@ NODE LIST:
 * Saturn MLV - saturnMLV
 * Saturn Multibody - saturnmultibody
 * Advanced Interplanetary Probes - USprobes5
+* Deep Space Probes - USprobes6
+* Space Shuttle - shuttle
+* Apollo Applications Program - aap
+* MEM - mem
+* SRB-X - srbx
+* Skylab - skylab
+* S-IVC - s4c
+* Advanced Cryogenics - UScryo1
+* NERVA - USnukes1
+* Cryo Lifters - cryolifters
+* Space Shuttle Main Engines - ssme
+* Delta IV - delta4
+* Shuttle-C - shuttlec
+* Shuttle Block II - shuttle2
+* Modular Space Stations - freedom
+* Centaur-G/T - cenatur3
+* Shuttle Block II Heavy - shuttle3
+* Shuttle LRBs - shuttleLRB
+* Advanced SRBs shuttleSRB2
+* Advanced Lunar Landers - artemis
+* Advanced Probes - USprobes7
+* Advanced Cryogenic Upper Stages - icps
+* Lunar Colonization - moonbase
+* Dual-Purpose Cryo - dpcryo1
+* NERVA - USnukes2
+* Atlas V - atlasv
+* Exploration Upper Stage - eus
+* Commercial Spaceflight - commercial
+* Orion - orion
+* Super Advanced Probes - USprobes8
+* Advanced Space Stations - discovery
+* Ares I - ares
+* Space Launch System - sls
+* Advanced Dual-Purpose Cryo - dpcryo2
+* ??? - slsboosters
+* Jupiter II - jupiter2
+* Commercial Rocketry I - commercial1
 
 * Incremental Delta - deltamid
 * Delta 6000 - delta6
